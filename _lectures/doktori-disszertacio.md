@@ -6,7 +6,8 @@ title: Doktori disszertáció és tézisfüzet elkészítése
 lecturers:
   - name: Molnár Sándor
     title: vmi
-    contact: 
+    phone: 
+    email: 
   - name: Gipsz Jakab
     title: vmi2
     phone: 1542

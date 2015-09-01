@@ -11,8 +11,10 @@ with open('lectures.csv') as lecturesfile:
 			"categories: lecture",
 			"date: %s" % lecture['date'],
 			"title: %s" % lecture['title'],
-			"lecturer: %s" % lecture['lecturer'],
+			"lecturers: %s" % lecture['lecturer'],
 			"phdla: %s" % lecture['phdla'],
+			"duration: %s" % lecture['duration'],
+			"school: %s" % lecture['school'],
 			"---",
 			"",
 			"Bemutató szöveg..."

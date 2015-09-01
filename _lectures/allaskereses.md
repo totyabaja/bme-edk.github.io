@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: lecture
 categories: lecture
 date: 2015-10-31
 title: Álláskeresés az egyetemen kívül. A karrierépítés első lépései

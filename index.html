@@ -4,5 +4,23 @@ layout: default
 
 <div class="home">
 
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        {% assign m = post.date | date: "%-m" %}
+        <span class="post-meta">{{ post.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ post.date | date: "%-d." }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+
+        {{ post.content }}
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS feed</a></p>
 
 </div>

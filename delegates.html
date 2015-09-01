@@ -5,9 +5,11 @@ title: Képviselők
 
 <div class="home">
 
-  <h1 class="page-heading">Képviselők</h1>
-
-  {% assign delegates = site.data.delegates.delegates | sort: 'faculty' %}
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+  
+  {% assign delegates = site.data.delegates.delegates | sort: 'name' %}
 
   <table class="table-hover">
   {% for delegate in delegates %}
@@ -15,7 +17,7 @@ title: Képviselők
         <td><img src="https://avatars0.githubusercontent.com/u/7793636?v=3&s=96" width="96" height="96" alt=""></td>
         <td>
           <h3>{{ delegate.name }}</h3>
-          <p>{{ delegate.faculty }}</p>
+          <div>{{ delegate.faculty }}</div>
           <p>{{ delegate.email }}</p>
         </td>
       </tr>

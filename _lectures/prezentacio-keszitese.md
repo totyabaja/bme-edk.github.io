@@ -1,21 +1,23 @@
 ---
 layout: lecture
-categories: lecture
-date: 2015-09-02
-title: Doktori disszertáció és tézisfüzet elkészítése
+date: TBA
+title: Praktikus tippek prezentáció készítéséhez (PowerPoint, Prezi)
 lecturers:
-  - name: Molnár Sándor
-    title: vmi
+  - name: Gujzer Zsuzsanna
+    title: tájékoztató könyvtáros
+    institute: BME OMIKK
     phone: 
     email: 
-  - name: Gipsz Jakab
-    title: vmi2
-    phone: 1542
-    email: hello@bel.lo
-phdla: 1062
+  - name: Kalmár Csilla
+    title: tájékoztató könyvtáros
+    institute: BME OMIKK
+    phone: 
+    email: 
+phdla: 1102
 duration: 2 óra (90 perc)
-school: összes
-recommendation: 5-25 fő
+schools: összes
+participants: 5–25 fő 
+location: 
 ---
 
 # A kurzus ismertetése

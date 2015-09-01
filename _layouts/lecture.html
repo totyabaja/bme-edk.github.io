@@ -16,9 +16,10 @@ layout: default
     {% for lecturer in page.lecturers %}
       <li>{{ lecturer.name }}
         <ul>
+          <li>{{ lecturer.institute }}</li>
           <li>{{ lecturer.title }}</li>
-          <li>Telefon: {{ lecturer.phone }}</li>
-          <li>{% if lecturer.email %}Email: {{ lecturer.email }} {% endif %}</li>
+          {% if lecturer.phone %}<li>Telefon: {{ lecturer.phone }}</li>{% endif %}
+          {% if lecturer.email %}<li>Email: {{ lecturer.email }}</li>{% endif %}
         </ul>
     </li>
     {% endfor %}
@@ -28,10 +29,10 @@ layout: default
     <strong>Időtartam:</strong> {{ page.duration }}
   <div>
   </div>
-    <strong>Mely doktori iskola részére:</strong> {{ page.school }}
+    <strong>Mely doktori iskola részére:</strong> {{ page.schools }}
   <div>
   </div>
-    <strong>Résztvevők ajánlott száma:</strong> {{ page.recommendation }}
+    <strong>Résztvevők ajánlott száma:</strong> {{ page.participants }}
   </div>
   </article>
 

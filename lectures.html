@@ -9,12 +9,12 @@ title: Kurzusok
     <h1 class="post-title">Kurzusok</h1>
   </header>
 
-  <table>
+  <table class="table-hover">
     <tr>
       <th>Időpont</th>
       <th>Kurzus címe</th>
       <th>Előadó(k)</th>
-      <th>Regisztráció kód (PHDLA)</th>
+      <th>Regisztráció&nbsp;kód</th>
       <th>Esemény</th>
     </tr>
     {% assign lectures = site.lectures | sort: 'date' %}
@@ -22,11 +22,13 @@ title: Kurzusok
       <tr>
         <td>
         {% assign m = lecture.date | date: "%-m" %}
+        {% if lecture.date != "TBA" %}
         {{ lecture.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ lecture.date | date: "%-d." }}
+        {% endif %}
         </td>
         <td><a href="{{ lecture.url | prepend: site.baseurl }}">{{ lecture.title }}</a></td>
         <td>{{ lecture.lecturers | map: 'name' | join: ', ' }}</td>
-        <td>{{ lecture.phdla }}</td>
+        <td>PHDLA{{ lecture.phdla }}</td>
         <td>{{ if lecture.event event link }}</td>
       </tr>
     {% endfor %}

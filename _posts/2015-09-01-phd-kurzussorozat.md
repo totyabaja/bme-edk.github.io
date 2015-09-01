@@ -5,4 +5,4 @@ date: 2015-09-01
 title: PhD kurzussorozat
 ---
 
-Készségfejlesztő kurzussorozatot indít a Doktori Képviselet. Az idei félév kurzusai megtalálhatók a [Kurzusok](lectures.html) oldalon. A végleges lista jelenleg összeállítás alatt áll.
+Készségfejlesztő kurzussorozatot indít a Doktori Képviselet. Az idei félév kurzusai megtalálhatók a [Kurzusok](/lectures.html) oldalon. A végleges lista jelenleg összeállítás alatt áll.

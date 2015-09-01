@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Kurzusok</h1>
+
+  <table>
+    <tr>
+      <th>Időpont</th>
+      <th>Kurzus címe</th>
+      <th>Előadó(k)</th>
+      <th>Regisztráció kód (PHDLA)</th>
+      <th>Esemény</th>
+    </tr>
+    {% assign lectures = site.lectures | sort: 'date' %}
+    {% for lecture in lectures %}
+      <tr>
+        <td>
+        {% assign m = lecture.date | date: "%-m" %}
+        {{ lecture.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ lecture.date | date: "%-d." }}
+        </td>
+        <td><a href="{{ lecture.url | prepend: site.baseurl }}">{{ lecture.title }}</a></td>
+        <td>{{ lecture.lecturer }}</td>
+        <td>{{ lecture.phdla }}</td>
+        <td>{{ if lecture.event event link }}</td>
+      </tr>
+    {% endfor %}
+  </table>
+
+</div>

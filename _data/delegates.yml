@@ -1,0 +1,26 @@
+delegates:
+  - name: Szárnyas Gábor
+    faculty: Villamos Mérnöki és Informatikai Kar
+    email: szarnyas@mit.bme.hu
+  - name: Tamási Alexandra
+    faculty: Építőmérnöki Kar
+    email: 
+  - name: Lendvai László
+    title: elnök
+    faculty: Gépészmérnöki Kar
+    email: 
+  - name: Soltész Dániel
+    faculty: Természettudományi Kar
+    email: 
+  - name: Bell Evelin
+    faculty: Vegyész- és Biomérnöki Kar
+    email: 
+  - name: Csordás Hédi Virág
+    faculty: Gazdaság- és Társadalomtudományi Kar
+    email: 
+  - name: Mátrai Tamás
+    faculty: Közlekedésmérnöki és Járműmérnöki Kar
+    email: 
+  - name: Török Anita
+    faculty: Építőmérnöki Kar
+    email: 

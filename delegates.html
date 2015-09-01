@@ -1,0 +1,25 @@
+---
+title: Képviselők
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Képviselők</h1>
+
+  {% assign delegates = site.data.delegates.delegates | sort: 'faculty' %}
+
+  <table>
+  {% for delegate in delegates %}
+      <tr>
+        <td><img src="https://avatars0.githubusercontent.com/u/7793636?v=3&s=96" width="96" height="96" alt=""></td>
+        <td>
+          <h3>{{ delegate.name }}</h3>
+          <p>{{ delegate.faculty }}</p>
+          <p>{{ delegate.email }}</p>
+        </td>
+      </tr>
+  {% endfor %}
+  <table>
+
+</div>

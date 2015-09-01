@@ -1,2 +1,1 @@
-# bme-edk.github.io
-BME-EDK GitHub Pages
+[EDK honlap](http://edk.inf.mit.bme.hu)

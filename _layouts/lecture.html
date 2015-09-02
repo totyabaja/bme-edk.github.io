@@ -14,14 +14,11 @@ layout: default
 
     <ul>
     {% for lecturer in page.lecturers %}
-      <li>{{ lecturer.name }}
-        <ul>
-          <li>{{ lecturer.institute }}</li>
-          <li>{{ lecturer.title }}</li>
-          {% if lecturer.phone %}<li>Telefon: {{ lecturer.phone }}</li>{% endif %}
-          {% if lecturer.email %}<li>Email: {{ lecturer.email }}</li>{% endif %}
-        </ul>
-    </li>
+      <li>
+        <strong>{{ lecturer.name }}</strong><br/>
+        {{ lecturer.title }} <br/>
+        {{ lecturer.institute }}
+      </li>
     {% endfor %}
     </ul>
   

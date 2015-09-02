@@ -8,6 +8,7 @@ layout: default
   </header>
 
   <article class="post-content">
+
     {{ content }}
 
     <h1>Előadó{% if page.lecturers.size > 1 %}k{% endif %}</h1>
@@ -21,7 +22,10 @@ layout: default
       </li>
     {% endfor %}
     </ul>
+
+    <h1>Adatok</h1>
   
+    <div><strong>Kurzuskód:</strong> PHDLA{{ page.phdla }}</div>
     <div><strong>Időtartam:</strong> {{ page.duration }}</div>
     <div><strong>Mely doktori iskola részére:</strong> {{ page.schools }}</div>
     <div><strong>Résztvevők ajánlott száma:</strong> {{ page.participants }}</div>

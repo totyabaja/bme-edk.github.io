@@ -9,7 +9,7 @@ lecturers:
 phdla: 2012
 duration: 2×2 óra
 schools: összes
-audience: végzős doktoranduszoknak és doktorjelölteknek
+audience: doktoranduszoknak és doktorjelölteknek
 participants: 40 fő
 location: 
 ---

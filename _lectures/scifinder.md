@@ -9,7 +9,7 @@ lecturers:
 phdla: 4042
 duration: 4 óra
 schools: szinte valamennyi doktori iskola részére javasolható, kivéve a matematika, a gazdaság- és a társadalomtudományok területeit.
-audience: végzős doktoranduszoknak és doktorjelölteknek
+audience: doktoranduszoknak és doktorjelölteknek
 participants: 3–10 fő
 location: 
 ---

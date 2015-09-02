@@ -9,7 +9,7 @@ lecturers:
 phdla: 2052
 duration: 2 óra
 schools: összes
-audience: 
+audience: doktoranduszoknak
 participants: 20 fő
 location: 
 ---

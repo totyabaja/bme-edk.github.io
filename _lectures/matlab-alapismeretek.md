@@ -9,7 +9,7 @@ lecturers:
 phdla: 4012
 duration: 4 óra
 schools: összes
-audience: 
+audience: doktoranduszoknak
 participants: 20 fő
 location: 
 ---

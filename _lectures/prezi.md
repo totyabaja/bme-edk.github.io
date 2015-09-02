@@ -9,7 +9,7 @@ lecturers:
 phdla: 1802
 duration: 4 óra
 schools: összes
-audience: 
+audience: doktoranduszoknak és doktorjelölteknek 
 participants: 30
 location: 
 ---

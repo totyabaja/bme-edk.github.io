@@ -9,7 +9,7 @@ lecturers:
 phdla: 2022
 duration: 3 óra
 schools: összes
-audience: 
+audience: doktoranduszoknak
 participants: 20 fő
 location: 
 ---

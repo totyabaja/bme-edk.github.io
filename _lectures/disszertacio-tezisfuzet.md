@@ -9,7 +9,7 @@ lecturers:
 phdla: 1062
 duration: 2 óra
 schools: Informatikai Tudományok, Villamosmérnöki Tudományok és Közgazdaságtudományok
-audience: 
+audience: doktoranduszoknak és doktorjelölteknek
 participants: 20 fő
 location: 
 ---

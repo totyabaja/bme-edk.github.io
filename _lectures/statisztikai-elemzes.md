@@ -9,7 +9,7 @@ lecturers:
 phdla: 4092
 duration: 5 óra
 schools: összes
-audience: 
+audience: doktorandusz hallgatóknak és doktorjelölteknek
 participants: min. 5 fő
 location: 
 ---

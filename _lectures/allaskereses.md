@@ -15,7 +15,7 @@ lecturers:
 phdla: 2032
 duration: 5 óra
 schools: összes
-audience: végzős doktoranduszoknak
+audience: végzős doktoranduszoknak és doktorjelölteknek
 participants: max. 20 fő
 location: 
 ---

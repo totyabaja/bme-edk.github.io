@@ -6,21 +6,16 @@ lecturers:
   - name: Illés Zsófia
     title: PhD-hallgató
     institute: Filozófia és Tudománytörténet Tanszék
-    phone: 
-    email: 
   - name: Szabó Krisztina
     title: PhD-hallgató
     institute: Filozófia és Tudománytörténet Tanszék
-    phone: 
-    email: 
   - name: Szemere Alexandra
     title: PhD-hallgató
     institute: Filozófia és Tudománytörténet Tanszék
-    phone: 
-    email: 
 phdla: 2032
 duration: 5 óra
-schools: összes doktori iskola végzős hallgatói
+schools: összes
+audience: végzős doktoranduszoknak
 participants: max. 20 fő
 location: 
 ---

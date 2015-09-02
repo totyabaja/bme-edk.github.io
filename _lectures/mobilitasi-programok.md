@@ -6,11 +6,10 @@ lecturers:
   - name: Bíró Gábor István
     title: PhD hallgató 
     institute: BME Gazdaság- és Társadalomtudományi Kar, Társadalomismereti Intézet
-    phone: 
-    email: 
 phdla: 2022
 duration: 3 óra
 schools: összes
+audience: 
 participants: 20 fő
 location: 
 ---

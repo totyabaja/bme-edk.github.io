@@ -6,16 +6,13 @@ lecturers:
   - name: Dr. Molnár György
     title: tanszékvezető egyetemi docens
     institute: BME Gazdaság- és Társadalomtudományi Kar, Műszaki Pedagógia Tanszék
-    phone: 
-    email: 
   - name: Horváth Cz. János
     title: tanársegéd
     institute: BME Gazdaság- és Társadalomtudományi Kar, Műszaki Pedagógia Tanszék
-    phone: 
-    email: 
 phdla: 3032
 duration: 5 óra
 schools: összes
+audience: 
 participants: 20 fő
 location: 
 ---

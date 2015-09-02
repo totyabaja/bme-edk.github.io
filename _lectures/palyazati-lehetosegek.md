@@ -6,11 +6,10 @@ lecturers:
   - name: Dr. Bodzay Brigitta
     title: tanársegéd, irodavezető
     institute: K+F+InfoPont, Vegyészmérnöki és Biomérnöki Kar
-    phone: 
-    email: 
 phdla: 2042
 duration: 3 óra
 schools: összes
+audience: 
 participants: 20 fő
 location: 
 ---

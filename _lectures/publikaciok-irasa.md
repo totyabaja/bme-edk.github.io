@@ -6,11 +6,10 @@ lecturers:
   - name: Dr. Recski András 
     title: egyetemi tanár
     institute: BME Villamosmérnöki és Informatikai Kar, Számítástudományi és Információelméleti Tanszék
-    phone: 
-    email: 
 phdla: 1032
 duration: 2 óra
 schools: Matematika- és Számítástudományok, Informatikai Tudományok és Villamosmérnöki Tudományok
+audience: 
 participants: 5–30 fő 
 location: 
 ---

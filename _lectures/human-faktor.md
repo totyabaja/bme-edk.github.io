@@ -6,11 +6,10 @@ lecturers:
   - name: Dr. Szántay Csaba
     title: egyetemi magántanár
     institute: Richter Gedeon Vegyészeti Gyár Nyrt.
-    phone: 
-    email: 
 phdla: 2012
 duration: 2×2 óra
 schools: összes
+audience: végzős doktoranduszoknak és doktorjelölteknek
 participants: 40 fő
 location: 
 ---

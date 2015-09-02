@@ -6,11 +6,10 @@ lecturers:
   - name: Dr. Molnár Sándor
     title: egyetemi docens
     institute: BME Villamosmérnöki és Informatikai Kar, Távközlési és Médiainformatikai Tanszék
-    phone: 
-    email: 
 phdla: 1062
 duration: 2 óra
 schools: Informatikai Tudományok, Villamosmérnöki Tudományok és Közgazdaságtudományok
+audience: 
 participants: 20 fő
 location: 
 ---

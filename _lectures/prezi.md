@@ -6,11 +6,10 @@ lecturers:
   - name: Szalóki Tiborné
     title: tanársegéd
     institute: BME-GTK
-    phone: 
-    email: 
 phdla: 1802
 duration: 4 óra
 schools: összes
+audience: 
 participants: 30
 location: 
 ---

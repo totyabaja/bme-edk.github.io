@@ -6,11 +6,10 @@ lecturers:
   - name: Vidékiné dr. Reményi Judit 
     title: egyetemi docens
     institute: BME Gazdaság- és Társadalomtudományi Kar, Műszaki Pedagógia Tanszék
-    phone: 
-    email: 
 phdla: 3012
 duration: 5 óra
 schools: összes
+audience: 
 participants: 20 fő
 location: 
 ---

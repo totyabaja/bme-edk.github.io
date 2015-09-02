@@ -6,16 +6,13 @@ lecturers:
   - name: Gujzer Zsuzsanna
     title: tájékoztató könyvtáros
     institute: BME OMIKK
-    phone: 
-    email: 
   - name: Kalmár Csilla
     title: tájékoztató könyvtáros
     institute: BME OMIKK
-    phone: 
-    email: 
 phdla: 4062
 duration: 2 óra (90 perc)
 schools: összes
+audience: végzős doktoranduszoknak és doktorjelölteknek
 participants: 5–25 fő 
 location: 
 ---

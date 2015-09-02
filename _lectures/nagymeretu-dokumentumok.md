@@ -6,11 +6,10 @@ lecturers:
   - name: dr Tichy-Rács Ádám
     title: szaktájékoztató
     institute: 
-    phone: 
-    email: 
 phdla: 4032
 duration: 3–4 óra
 schools: összes (doktorjelölteknek is)
+audience: végzős doktoranduszoknak és doktorjelölteknek
 participants: 5–15 fő
 location: 
 ---

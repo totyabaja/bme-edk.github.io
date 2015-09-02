@@ -6,11 +6,10 @@ lecturers:
   - name: Dr. Varga Gábor
     title: egyetemi docens
     institute: BME Természettudományi Kar, Fizika Tanszék
-    phone: 
-    email: 
 phdla: 4022
 duration: 4 óra
 schools: összes
+audience: 
 participants: 20 fő
 location: 
 ---

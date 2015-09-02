@@ -6,11 +6,10 @@ lecturers:
   - name: Halász Ágnes
     title: mediátor
     institute: Párbeszéd Műhely
-    phone: 
-    email: 
 phdla: 2062
 duration: 3 óra
 schools: összes
+audience: végzős doktoranduszoknak és doktorjelölteknek
 participants: 3–12 fő
 location: 
 ---

@@ -20,8 +20,11 @@ location:
 # A kurzus ismertetése
 
 Az oktatói munka során gyakran előforduló zárthelyi javítási, ellenőrzési feladatok hatékony megoldása.
+
 A hallgatói tudás mérésének korszerű, Információs és Kommunikációs Technológián alapuló (IKT- alapú) eszközeinek ismertetése, ezek alkalmazása a tanulási folyamat ellenőrzése és értékelése során.
+
 Tudományos, szakmai hallgatói munkák követelményrendszerének megismerése és az ehhez kapcsolódó minősítési folyamatok támogatása modern eszközök segítségével.
+
 Tömeges hallgatói csoportok számonkérésének online, elektronikus megoldásai, mely gyors, egzakt és objektív mérési alapokon nyugszik.
 
 # Hatása

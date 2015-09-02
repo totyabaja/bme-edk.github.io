@@ -16,7 +16,7 @@ location:
 
 # A kurzus ismertetése
 
-A doktorandusz hallgatók segítése, hogy kutatási eredményeiket hatékonyan tudják prezentálni a doktori disszertáció és a kapcsolódó tézisfüzet formájában. 
+A doktorandusz hallgatók segítése, hogy kutatási eredményeiket hatékonyan tudják prezentálni a doktori disszertáció és a kapcsolódó tézisfüzet formájában.
 
 # Hatása
 

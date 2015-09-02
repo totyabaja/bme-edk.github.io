@@ -21,6 +21,7 @@ A doktorandusz hallgatók megismertetése a különböző általuk pályázható
 # Hatása
 
 A kurzus elvégzését követően a résztvevők:
+
 * Ismerni fogják a doktorandusz hallgatók számára elérhető, valamint a felsőoktatásban való oktatásszervező munkájukhoz nélkülözhetetlen európai uniós pályázatokat, ezek tervezésének, szervezésének és utókövetésének alapjait.
 * Képesek lesznek az elméleti ismeretanyagot a gyakorlatban alkalmazni, tisztában lesznek vele, hogy hol, mikor és hogyan tudnak egy-egy nemzetközi mobilitási programra pályázni
 * Képesek lesznek értékelni egy-egy pályázati anyagot formai és tartalmi szempontból, tisztában lesznek a gyakori hibákkal, a megvalósítás buktatóival és a folyamatban szereplő összes stakeholder szerepével, valamint a projekt végrehajtásának jogi, szervezési, pénzügyi problémáival.

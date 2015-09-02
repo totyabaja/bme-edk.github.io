@@ -17,7 +17,9 @@ location:
 # A kurzus ismertetése
 
 A MATLAB negyedik generációs programnyelv, a műszaki számítások programnyelve. 
+
 A MATLAB környezetének és programozásának a megismerése: mátrix műveletek, a lineáris algebra elemei, egy-, két- és háromváltozós függvények ábrázolása, nyomtatás, file kezelés, vezérlő utasítások és függvényírás MATLAB-ban, grafikus felhasználói felület.
+
 Hivatkozás: <http://www.mathworks.com/>
 
 # Hatása

@@ -4,15 +4,12 @@ layout: default
 <div class="post">
 
   <header class="post-header">
+    {% assign m = page.date | date: "%-m" %}
+    <p class="post-meta">{{ page.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ page.date | date: "%-d." }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
     <h1 class="post-title">{{ page.title }}</h1>
-    <p class="post-meta">
-        {% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
   </header>
 
   <article class="post-content">
-	<strong>Időpont:</strong> {% assign m = page.date | date: "%-m" %}
-        {{ page.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ page.date | date: "%-d." }}
-
     {{ content }}
   </article>
 

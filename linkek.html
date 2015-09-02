@@ -1,0 +1,19 @@
+---
+layout: default
+title: Linkek
+weight: 200
+---
+
+<div class="home">
+
+  <h1 class="page-heading">{{ page.title }}</h1>
+  
+  {% assign links = site.data.links.links %}
+
+  <ul>
+  {% for link in links %}
+    <li><a href="{{ link.url }}">{{ link.name }}</a></li>
+  {% endfor %}
+  <ul>
+
+</div>

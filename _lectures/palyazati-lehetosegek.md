@@ -1,7 +1,7 @@
 ---
 layout: lecture
 date: TBA
-title: 
+title: Kutatói pályázati lehetőségek, képességek megalapozása
 lecturers:
   - name: Dr. Bodzay Brigitta
     title: tanársegéd, irodavezető

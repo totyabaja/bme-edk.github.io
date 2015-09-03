@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: 2015.09.15.
+date: 
 title: Tudományos művek szedése LaTeX környezetben
 lecturers:
   - name: Szárnyas Gábor

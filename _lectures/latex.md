@@ -6,7 +6,7 @@ lecturers:
   - name: Szárnyas Gábor
     title: PhD hallgató
     institute: BME-VIK, Hibatűrő Rendszerek Kutatócsoport
-phdla: 
+phdla: 4082
 duration: 4 óra
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek

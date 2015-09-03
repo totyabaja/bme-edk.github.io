@@ -6,7 +6,7 @@ lecturers:
   - name: Mády Katalin
     title: tudományos főmunkatárs
     institute: MTA Nyelvtudományi Intézet
-phdla: 4092
+phdla: 4072
 duration: 5 óra
 schools: összes
 audience: doktorandusz hallgatóknak és doktorjelölteknek

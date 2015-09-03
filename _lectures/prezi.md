@@ -6,7 +6,7 @@ lecturers:
   - name: Szalóki Tiborné
     title: tanársegéd
     institute: BME-GTK
-phdla: 1802
+phdla: 1082
 duration: 4 óra
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek 

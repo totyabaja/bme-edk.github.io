@@ -26,7 +26,7 @@ weight: 50
         {% endif %}
         </td>
         <td><a href="{{ lecture.url | prepend: site.baseurl }}">{{ lecture.title }}</a></td>
-        <td>{{ lecture.lecturers | map: 'name' | join: ', ' }}</td>
+        <td>{{ lecture.lecturers | map: 'name' | join: ', <br/>' }}</td>
         <td>PHDLA{{ lecture.phdla }}</td>
         <td>{{ if lecture.event event link }}</td>
       </tr>

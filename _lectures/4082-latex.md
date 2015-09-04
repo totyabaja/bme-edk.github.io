@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: 
+date: 2015.10.27.
 title: Tudományos művek írása LaTeX környezetben
 lecturers:
   - name: Szárnyas Gábor

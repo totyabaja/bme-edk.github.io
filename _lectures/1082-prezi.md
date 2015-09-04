@@ -11,7 +11,7 @@ duration: 4 óra
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek 
 participants: 30
-location: 
+location: TBA
 ---
 
 # A kurzus ismertetése

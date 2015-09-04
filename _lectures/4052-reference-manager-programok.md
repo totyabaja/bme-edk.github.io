@@ -11,7 +11,7 @@ duration: 2 óra
 schools: műszaki, gazdasági
 audience: doktoranduszoknak
 participants: 5–20 fő
-location: 
+location: TBA
 ---
 
 # A kurzus ismertetése

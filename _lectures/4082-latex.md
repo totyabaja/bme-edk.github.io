@@ -14,7 +14,7 @@ participants: max. 30 fő
 location: IB413
 starttime: "16:00"
 endtime: "20:00"
-forms: 3ke6QaSfZw
+form: 3ke6QaSfZw
 ---
 
 # A kurzus ismertetése

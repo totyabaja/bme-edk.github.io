@@ -39,7 +39,7 @@ weight: 50
         <td><a href="{{ lecture.url | prepend: site.baseurl }}">{{ lecture.title }}</a></td>
         <td>{{ lecture.lecturers | map: 'name' | join: ', <br/>' }}</td>
         <td>PHDLA{{ lecture.phdla }}</td>
-        <td>{% if lecture.forms %}<a href="http://goo.gl/forms/{{ lecture.forms }}">jelentkezés</a></td>
+        <td>{% if lecture.form %}<a href="http://goo.gl/forms/{{ lecture.form }}">jelentkezés</a>{% endif %}</td>
       </tr>
     {% endfor %}
   </table>

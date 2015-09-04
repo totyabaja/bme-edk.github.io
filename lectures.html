@@ -22,7 +22,7 @@ weight: 50
       <th>Időpont</th>
       <th>Helyszín</th>
       <th>Kurzus címe</th>
-      <th>Előadó(k)</th>
+      <th width="200">Előadó(k)</th>
       <th>Regisztráció&nbsp;kód</th>
       <th>Esemény</th>
     </tr>
@@ -32,8 +32,7 @@ weight: 50
         <td>
         {% assign m = lecture.date | date: "%-m" %}
         {% if lecture.date != "TBA" %}
-        {{ lecture.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ lecture.date | date: "%-d." }}
-        {% endif %}{% if lecture.starttime %}&nbsp;{{ lecture.starttime }}–{{ lecture.endtime }}{% endif %}
+        {{ lecture.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ lecture.date | date: "%-d." }}{% endif %}{% if lecture.starttime %}&nbsp;{{ lecture.starttime }}–{{ lecture.endtime }}{% endif %}
         </td>
         <td>{{ lecture.location }}</td>
         <td><a href="{{ lecture.url | prepend: site.baseurl }}">{{ lecture.title }}</a></td>

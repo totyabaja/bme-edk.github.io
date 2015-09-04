@@ -16,7 +16,7 @@ weight: 50
       <th>Regisztráció&nbsp;kód</th>
       <th>Esemény</th>
     </tr>
-    {% assign lectures = site.lectures | sort: 'date' %}
+    {% assign lectures = site.lectures | sort: 'phdla' %}
     {% for lecture in lectures %}
       <tr>
         <td>

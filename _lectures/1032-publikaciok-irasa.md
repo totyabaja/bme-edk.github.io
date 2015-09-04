@@ -12,6 +12,9 @@ schools: Matematika- és Számítástudományok, Informatikai Tudományok és Vi
 audience: doktoranduszoknak
 participants: 5–30 fő 
 location: TBA
+starttime: ""
+endtime: ""
+form: 
 ---
 
 # A kurzus ismertetése

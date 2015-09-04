@@ -24,7 +24,7 @@ weight: 50
       <th>Kurzus címe</th>
       <th width="200">Előadó(k)</th>
       <th>Regisztráció&nbsp;kód</th>
-      <th>Esemény</th>
+      <th>Jelentkezés</th>
     </tr>
     {% assign lectures = site.lectures | sort: 'phdla' %}
     {% for lecture in lectures %}
@@ -39,7 +39,7 @@ weight: 50
         <td><a href="{{ lecture.url | prepend: site.baseurl }}">{{ lecture.title }}</a></td>
         <td>{{ lecture.lecturers | map: 'name' | join: ', <br/>' }}</td>
         <td>PHDLA{{ lecture.phdla }}</td>
-        <td>{{ if lecture.event event link }}</td>
+        <td>{% if lecture.forms %}<a href="http://goo.gl/forms/{{ lecture.forms }}">jelentkezés</a></td>
       </tr>
     {% endfor %}
   </table>

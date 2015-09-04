@@ -33,7 +33,7 @@ weight: 50
         {% assign m = lecture.date | date: "%-m" %}
         {% if lecture.date != "TBA" %}
         {{ lecture.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ lecture.date | date: "%-d." }}{% endif %}<br />
-        {% if lecture.starttime %}&nbsp;{{ lecture.starttime }}–{{ lecture.endtime }}{% endif %}
+        {% if lecture.starttime %}{{ lecture.starttime }}–{{ lecture.endtime }}{% endif %}
         </td>
         <td>{{ lecture.location }}</td>
         <td><a href="{{ lecture.url | prepend: site.baseurl }}">{{ lecture.title }}</a></td>

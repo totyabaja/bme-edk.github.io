@@ -5,7 +5,7 @@ title: A publikálás folyamata
 lecturers:
   - name: Dr. Recski András 
     title: egyetemi tanár
-    institute: BME Villamosmérnöki és Informatikai Kar, Számítástudományi és Információelméleti Tanszék
+    institute: Számítástudományi és Információelméleti Tanszék, BME Villamosmérnöki és Informatikai Kar
 phdla: 1022
 duration: 2 óra
 schools: Matematika- és Számítástudományok, Informatikai Tudományok és Villamosmérnöki Tudományok

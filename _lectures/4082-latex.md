@@ -19,18 +19,18 @@ form:
 
 # A kurzus ismertetése
 
-A tudományos szövegek közös jellemzője, hogy sok képletet, kereszthivatkozást és irodalomhivatkozást tartalmaznak. A LaTeX nyelv célja, hogy hatékonyan támogassa ilyen dokumentumok elkészítését. A LaTeX irodalomkezelő rendszere (BibTeX) rendkívül kifinomult és széleskörben támogatott. A legtöbb konferencia és folyóirat biztosít LaTeX sablont a publikációk elkészítéséhez, bizonyos tudományterületeken (fizika, matematika, informatika) pedig a legtöbb mű LaTeX-ben készül.
+A tudományos szövegek közös jellemzője, hogy sok képletet, kereszthivatkozást és irodalomhivatkozást tartalmaznak. A LaTeX [ejtsd: lateh] nyelv célja, hogy hatékonyan támogassa ilyen dokumentumok elkészítését. A LaTeX irodalomkezelő rendszere (BibTeX) rendkívül kifinomult és széleskörben támogatott. A legtöbb konferencia és folyóirat biztosít LaTeX sablont a publikációk elkészítéséhez, bizonyos tudományterületeken (pl. fizika, matematika, informatika) pedig a legtöbb mű ezen a nyelven készül.
 
-A kurzus bemutatja a LaTeX dokumentumok felépítését és a nyelv alapelemeit. Egy LaTeX szerkesztőben egyszerű példákon keresztül bemutatja a dokumentum fordításának lépéseit, valamit a különböző csomagok használatát.
+A kurzus bemutatja a LaTeX dokumentumok felépítését és a nyelv alapelemeit. Egy LaTeX szerkesztőben egyszerű példákon keresztül végigvezet a dokumentum fordításának lépésein. Kitér a leghasznosabb internetes forrásokra és a különböző csomagok dokumentációjának használatára.
 
-A kurzus további célja, hogy a gyakori hibákra felhívja a figyelmet, így bemutatja a megfelelő karakterkódolás beállítását, a hiányzó referenciák keresését és javítását, az ékezetes karakterek alkalmazását (angol dokumentumokban), valamint a biztonsági mentés készítésének módjait.
+A kurzus további célja, hogy a gyakori hibákra felhívja a figyelmet, így bemutatja a helyes karakterkódolás beállítását, a hiányzó referenciák keresését és javítását, az ékezetes karakterek alkalmazását (angol dokumentumokban), valamint a biztonsági mentés készítésének módjait.
 
 # Hatása
 
 A kurzus elvégzése által a résztvevők képessé válnak
 
 * LaTeX nyelven készült sablonok használatára,
-* ábrák, táblázatok beszúrására és azok hivatkozására,
-* egyszerű képletek írására és hivatkozására,
+* ábrák beszúrására és azok hivatkozására,
+* egyszerű képletek és táblázatok írására és hivatkozására,
 * irodalomjegyzék készítésére,
 * fordítási hiba esetén képes annak helyének hatékony meghatározására.

@@ -1,7 +1,7 @@
 ---
 layout: lecture
 date: 
-title: Tudományos művek szedése LaTeX környezetben
+title: Tudományos művek írása LaTeX környezetben
 lecturers:
   - name: Szárnyas Gábor
     title: PhD hallgató

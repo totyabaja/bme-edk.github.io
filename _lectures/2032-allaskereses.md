@@ -5,13 +5,13 @@ title: Álláskeresés az egyetemen kívül. A karrierépítés első lépései
 lecturers:
   - name: Illés Zsófia
     title: PhD-hallgató
-    institute: Filozófia és Tudománytörténet Tanszék
+    institute: Filozófia és Tudománytörténet Tanszék, BME Gazdaság- és Társadalomtudományi Kar
   - name: Szabó Krisztina
     title: PhD-hallgató
-    institute: Filozófia és Tudománytörténet Tanszék
+    institute: Filozófia és Tudománytörténet Tanszék, BME Gazdaság- és Társadalomtudományi Kar
   - name: Szemere Alexandra
     title: PhD-hallgató
-    institute: Filozófia és Tudománytörténet Tanszék
+    institute: Filozófia és Tudománytörténet Tanszék, BME Gazdaság- és Társadalomtudományi Kar
 phdla: 2032
 duration: 5 óra
 schools: összes

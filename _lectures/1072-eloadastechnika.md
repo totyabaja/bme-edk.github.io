@@ -5,7 +5,7 @@ title: Előadástechnika. Prezentáció nagy létszámú hallgatóságnak
 lecturers:
   - name: Szalóki Tiborné
     title: tanársegéd
-    institute: BME-GTK
+    institute: Műszaki Pedagógia Tanszék, BME Gazdaság- és Társadalomtudományi Kar
 phdla: 1072
 duration: 5 óra
 schools: összes

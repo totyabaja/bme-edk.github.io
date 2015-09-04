@@ -5,10 +5,10 @@ title: Az ellenőrzés-értékelés korszerű módszerei az oktatói munka sorá
 lecturers:
   - name: Dr. Molnár György
     title: tanszékvezető egyetemi docens
-    institute: BME Gazdaság- és Társadalomtudományi Kar, Műszaki Pedagógia Tanszék
+    institute: Műszaki Pedagógia Tanszék, BME Gazdaság- és Társadalomtudományi Kar
   - name: Horváth Cz. János
     title: tanársegéd
-    institute: BME Gazdaság- és Társadalomtudományi Kar, Műszaki Pedagógia Tanszék
+    institute: Műszaki Pedagógia Tanszék, BME Gazdaság- és Társadalomtudományi Kar
 phdla: 3032
 duration: 5 óra
 schools: összes

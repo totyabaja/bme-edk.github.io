@@ -3,9 +3,9 @@ layout: lecture
 date: TBA
 title: Nagyméretű dokumentumok Wordben, illetve LibreOffice Writerben
 lecturers:
-  - name: dr Tichy-Rács Ádám
+  - name: Dr. Tichy-Rács Ádám
     title: szaktájékoztató
-    institute: 
+    institute: BME OMIKK
 phdla: 4032
 duration: 3–4 óra
 schools: összes (doktorjelölteknek is)

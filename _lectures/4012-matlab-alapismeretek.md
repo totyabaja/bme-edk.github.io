@@ -5,7 +5,7 @@ title: MATLAB alapismeretek
 lecturers:
   - name: Dr. Varga Gábor
     title: egyetemi docens
-    institute: BME Természettudományi Kar, Fizika Tanszék
+    institute: Fizika Tanszék, BME Természettudományi Kar
 phdla: 4012
 duration: 4 óra
 schools: összes

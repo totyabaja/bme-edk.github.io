@@ -5,7 +5,7 @@ title: MATLAB haladó programozás
 lecturers:
   - name: Dr. Varga Gábor
     title: egyetemi docens
-    institute: BME Természettudományi Kar, Fizika Tanszék
+    institute: Fizika Tanszék, BME Természettudományi Kar
 phdla: 4022
 duration: 4 óra
 schools: összes

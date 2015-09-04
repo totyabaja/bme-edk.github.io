@@ -3,7 +3,7 @@ layout: lecture
 date: TBA
 title: SciFinder adatbázis hatékony használata szakirodalom kereséséhez
 lecturers:
-  - name: dr Tichy-Rács Ádám
+  - name: Dr. Tichy-Rács Ádám
     title: szaktájékoztató
     institute: BME OMIKK
 phdla: 4042

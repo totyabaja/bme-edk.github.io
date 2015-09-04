@@ -5,7 +5,7 @@ title: Prezi.com
 lecturers:
   - name: Szalóki Tiborné
     title: tanársegéd
-    institute: BME-GTK
+    institute: Műszaki Pedagógia Tanszék, BME Gazdaság- és Társadalomtudományi Kar
 phdla: 1082
 duration: 4 óra
 schools: összes

@@ -5,7 +5,7 @@ title: Európai uniós mobilitási programok doktorandusz hallgatók részére
 lecturers:
   - name: Bíró Gábor István
     title: PhD hallgató 
-    institute: BME Gazdaság- és Társadalomtudományi Kar, Társadalomismereti Intézet
+    institute: Társadalomismereti Intézet, BME Gazdaság- és Társadalomtudományi Kar
 phdla: 2022
 duration: 3 óra
 schools: összes

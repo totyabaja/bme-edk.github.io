@@ -5,7 +5,7 @@ title: Doktori disszertáció és tézisfüzet elkészítése
 lecturers:
   - name: Dr. Molnár Sándor
     title: egyetemi docens
-    institute: BME Villamosmérnöki és Informatikai Kar, Távközlési és Médiainformatikai Tanszék
+    institute: Távközlési és Médiainformatikai Tanszék, BME Villamosmérnöki és Informatikai Kar
 phdla: 1062
 duration: 2 óra
 schools: Informatikai Tudományok, Villamosmérnöki Tudományok és Közgazdaságtudományok

@@ -5,7 +5,7 @@ title: Kiscsoportos oktatás
 lecturers:
   - name: Vidékiné dr. Reményi Judit 
     title: egyetemi docens
-    institute: BME Gazdaság- és Társadalomtudományi Kar, Műszaki Pedagógia Tanszék
+    institute: Műszaki Pedagógia Tanszék, BME Gazdaság- és Társadalomtudományi Kar
 phdla: 3012
 duration: 5 óra
 schools: összes

@@ -1,8 +1,8 @@
 # Site settings
 title: BME Egyetemi Doktorandusz Képviselet
-email: edk@mail.bme.hu
+email: 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://docs.inf.mit.bme.hu/edk" # the base hostname & protocol for your site
+url: "http://edk.inf.mit.bme.hu/" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown

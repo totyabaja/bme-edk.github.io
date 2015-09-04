@@ -1,7 +1,7 @@
 ---
 layout: lecture
 date: TBA
-title: Európai uniós mobilitási programok doktorandusz hallgatók
+title: Európai uniós mobilitási programok doktorandusz hallgatók részére
 lecturers:
   - name: Bíró Gábor István
     title: PhD hallgató 

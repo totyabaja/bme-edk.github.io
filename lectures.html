@@ -20,6 +20,7 @@ weight: 50
   <table class="table-hover">
     <tr>
       <th>Időpont</th>
+      <th>Helyszín</th>
       <th>Kurzus címe</th>
       <th>Előadó(k)</th>
       <th>Regisztráció&nbsp;kód</th>
@@ -33,7 +34,9 @@ weight: 50
         {% if lecture.date != "TBA" %}
         {{ lecture.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ lecture.date | date: "%-d." }}
         {% endif %}
+        {{ lecture.starttime }}–{{ lecture.endtime }}
         </td>
+        <td>{{ lecture.location }}</td>
         <td><a href="{{ lecture.url | prepend: site.baseurl }}">{{ lecture.title }}</a></td>
         <td>{{ lecture.lecturers | map: 'name' | join: ', <br/>' }}</td>
         <td>PHDLA{{ lecture.phdla }}</td>

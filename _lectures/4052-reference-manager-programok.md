@@ -12,6 +12,9 @@ schools: műszaki, gazdasági
 audience: doktoranduszoknak
 participants: 5–20 fő
 location: TBA
+starttime: ""
+endtime: ""
+form: 
 ---
 
 # A kurzus ismertetése

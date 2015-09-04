@@ -12,6 +12,9 @@ schools:
 audience: 
 participants: 
 location: 
+starttime: ""
+endtime: ""
+form: 
 ---
 
 # A kurzus ismertetése

@@ -12,6 +12,9 @@ schools: szinte valamennyi doktori iskola részére javasolható, kivéve a mate
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 3–10 fő
 location: TBA
+starttime: ""
+endtime: ""
+form: 
 ---
 
 # A kurzus ismertetése

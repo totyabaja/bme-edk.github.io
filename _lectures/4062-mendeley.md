@@ -15,6 +15,9 @@ schools: összes
 audience: doktoranduszoknak
 participants: 5–25 fő 
 location: TBA
+starttime: ""
+endtime: ""
+form: 
 ---
 
 # A kurzus ismertetése

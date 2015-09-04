@@ -12,8 +12,8 @@ schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: max. 30 fő
 location: IB413
-starttime: 16:00
-endtime: 20:00
+starttime: "16:00"
+endtime: "20:00"
 ---
 
 # A kurzus ismertetése

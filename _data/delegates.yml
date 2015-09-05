@@ -1,34 +1,26 @@
 delegates:
-  - name: Szárnyas Gábor
-    weight: 30
-    faculty: Villamos Mérnöki és Informatikai Kar
-    email: szarnyas@mit.bme.hu
-  - name: Tamási Alexandra
-    weight: 30
-    faculty: Építőmérnöki Kar
-    email: 
   - name: Lendvai László
     title: elnök
-    weight: 10
     faculty: Gépészmérnöki Kar
     email: 
-  - name: Soltész Dániel
-    weight: 30
-    faculty: Természettudományi Kar
-    email: 
   - name: Bell Evelin
-    weight: 30
     faculty: Vegyészmérnöki és Biomérnöki Kar
     email: 
   - name: Csordás Hédi Virág
-    weight: 30
     faculty: Gazdaság- és Társadalomtudományi Kar
     email: 
   - name: Mátrai Tamás
-    weight: 30
     faculty: Közlekedésmérnöki és Járműmérnöki Kar
     email: 
+  - name: Soltész Dániel
+    faculty: Természettudományi Kar
+    email: 
+  - name: Szárnyas Gábor
+    faculty: Villamos Mérnöki és Informatikai Kar
+    email: szarnyas@mit.bme.hu
+  - name: Tamási Alexandra
+    faculty: Építőmérnöki Kar
+    email: 
   - name: Török Anita
-    weight: 30
     faculty: Építőmérnöki Kar
     email: 

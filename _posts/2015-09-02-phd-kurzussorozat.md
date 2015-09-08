@@ -16,5 +16,7 @@ A kurzusok leírása a [Kurzusok](/lectures.html) oldalon található meg. Ezen 
 Minden doktorandusz hallgatót és fiatal kutatót szeretettel várunk!
 
 Üdvözlettel:
+
 Az Egyetemi Doktorandusz Képviselet Vezetősége 
+
 dok.kurzussorozat@gmail.com

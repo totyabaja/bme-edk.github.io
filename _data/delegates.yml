@@ -2,19 +2,19 @@ delegates:
   - name: Lendvai László
     title: elnök
     faculty: Gépészmérnöki Kar
-    email: 
+    email: lendvai@pt.bme.hu
   - name: Bell Evelin
     faculty: Vegyészmérnöki és Biomérnöki Kar
-    email: 
+    email: bell.evelin@ch.bme.hu
   - name: Csordás Hédi Virág
     faculty: Gazdaság- és Társadalomtudományi Kar
-    email: 
+    email: hedi.csordas@filozofia.bme.hu
   - name: Mátrai Tamás
     faculty: Közlekedésmérnöki és Járműmérnöki Kar
     email: 
   - name: Soltész Dániel
     faculty: Természettudományi Kar
-    email: 
+    email: solteszd@math.bme.hu
   - name: Szárnyas Gábor
     faculty: Villamos Mérnöki és Informatikai Kar
     email: szarnyas@mit.bme.hu

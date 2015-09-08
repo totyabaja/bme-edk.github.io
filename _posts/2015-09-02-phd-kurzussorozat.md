@@ -17,5 +17,4 @@ Minden doktorandusz hallgatót és fiatal kutatót szeretettel várunk!
 
 Üdvözlettel:
 Az Egyetemi Doktorandusz Képviselet Vezetősége 
-
 dok.kurzussorozat@gmail.com

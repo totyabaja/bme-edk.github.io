@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: TBA
+date: 2015.10.01
 title: Előadástechnika. Prezentáció nagy létszámú hallgatóságnak
 lecturers:
   - name: Szalóki Tiborné
@@ -11,9 +11,9 @@ duration: 5 óra
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 20 fő
-location: TBA
-starttime: ""
-endtime: ""
+location: E épület 8. emelet 804.
+starttime: "9:15"
+endtime: "14:00"
 form: 
 ---
 

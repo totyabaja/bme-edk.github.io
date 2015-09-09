@@ -12,8 +12,8 @@ schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 20 fő
 location: E épület 11. em. 4.
-starttime: 8.30
-endtime: 13.00
+starttime: "8:30"
+endtime: "13:00"
 form: 
 ---
 

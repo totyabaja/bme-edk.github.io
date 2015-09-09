@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: TBA
+date: 2015.09.28.
 title: A publikálás folyamata
 lecturers:
   - name: Dr. Recski András 
@@ -11,9 +11,9 @@ duration: 2 óra
 schools: Matematika- és Számítástudományok, Informatikai Tudományok és Villamosmérnöki Tudományok
 audience: doktoranduszoknak
 participants: 5–30 fő 
-location: TBA
-starttime: ""
-endtime: ""
+location: Informatika épület B szárny 2. em. 210
+starttime: "11:15"
+endtime: "13:00"
 form: 
 ---
 

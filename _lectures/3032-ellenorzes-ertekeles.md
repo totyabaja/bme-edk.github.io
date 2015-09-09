@@ -14,7 +14,7 @@ duration: 3 óra
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 20 fő
-location: E épület  8.em. 804.
+location: E épület  8.emelet 804.
 starttime: "9:00"
 endtime: "12:00"
 form: 

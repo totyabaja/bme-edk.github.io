@@ -17,7 +17,7 @@ duration: 5 óra
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 6–14 fő
-location: E épület 11.em. 4.
+location: E épület 11.emelet 4.
 starttime: "14:15"
 endtime: "19:00"
 form: 

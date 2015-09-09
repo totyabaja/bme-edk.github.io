@@ -11,7 +11,7 @@ duration: 4 óra
 schools: szinte valamennyi doktori iskola részére javasolható, kivéve a matematika, a gazdaság- és a társadalomtudományok területeit.
 audience: doktoranduszoknak és doktorjelölteknek
 participants: max.10 fő
-location: K épület 1.em. 52.
+location: K épület 1.emelet 52.
 starttime: "9:00"
 endtime: "13:00"
 form: 

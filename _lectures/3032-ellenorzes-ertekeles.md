@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: TBA
+date: 2015.09.30.
 title: Az ellenőrzés-értékelés korszerű módszerei az oktatói munka során 
 lecturers:
   - name: Dr. Molnár György
@@ -10,13 +10,13 @@ lecturers:
     title: tanársegéd
     institute: Műszaki Pedagógia Tanszék, BME Gazdaság- és Társadalomtudományi Kar
 phdla: 3032
-duration: 5 óra
+duration: 3 óra
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 20 fő
-location: TBA
-starttime: ""
-endtime: ""
+location: E épület 8. em. 804.
+starttime: "9:00"
+endtime: "12:00"
 form: 
 ---
 

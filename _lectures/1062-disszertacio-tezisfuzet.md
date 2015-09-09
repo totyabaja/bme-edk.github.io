@@ -11,7 +11,7 @@ duration: 2 óra
 schools: Informatikai Tudományok, Villamosmérnöki Tudományok és Közgazdaságtudományok
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 20 fő
-location: Informatika épület B szárny 2. em. 210.
+location: Informatika épület B szárny 2.em. IB210.
 starttime: "10:15"
 endtime: "12:00"
 form: 

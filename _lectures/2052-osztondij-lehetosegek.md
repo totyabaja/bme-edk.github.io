@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: TBA
+date: 2015.10.14.
 title: Ösztöndíj lehetőségek doktorandusz hallgatók számára
 lecturers:
   - name: Dr. Bodzay Brigitta
@@ -11,7 +11,7 @@ duration: 2 óra
 schools: összes
 audience: doktoranduszoknak
 participants: 20 fő
-location: E épület 11. em. 4.
+location: E épület 11.em. 4.
 starttime: "10:00"
 endtime: "12:00"
 form: 

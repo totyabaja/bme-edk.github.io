@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: TBA
+date: 2015.10.08.
 title: Prezentációs alapelvek és gyakorlati technikák
 lecturers:
   - name: Dr. Tanács János
@@ -17,9 +17,9 @@ duration: 5 óra
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 6–14 fő
-location: TBA
-starttime: ""
-endtime: ""
+location: E épület 11. em. 4.
+starttime: "14:15"
+endtime: "19:00"
 form: 
 ---
 

@@ -11,9 +11,9 @@ duration: 4 óra
 schools: összes
 audience: doktoranduszoknak
 participants: 20 fő
-location: Fizika épület 3. lépcsőház 2. em. 13. terem
-starttime: 16.00
-endtime: 20.00
+location: Fizika épület 3. lépcsőház 2. em. 13.
+starttime: "16.00"
+endtime: "20.00"
 form: 
 ---
 

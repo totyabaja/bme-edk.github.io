@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: TBA
+date: 2015.09.21.
 title: MATLAB alapismeretek
 lecturers:
   - name: Dr. Varga Gábor
@@ -11,9 +11,9 @@ duration: 4 óra
 schools: összes
 audience: doktoranduszoknak
 participants: 20 fő
-location: TBA
-starttime: ""
-endtime: ""
+location: Fizika épület 3. lépcsőház 2. em. 13. terem
+starttime: (16:00)
+endtime: (20:00)
 form: 
 ---
 

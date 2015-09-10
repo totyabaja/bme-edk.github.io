@@ -12,8 +12,8 @@ schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 40 fő
 location: TBA
-starttime: "14:00"
-endtime: "16:00"
+starttime: "15:00"
+endtime: "17:00"
 form: 
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: 20015.11.11.
+date: 2015.11.11.
 title: Praktikus tippek prezentáció készítéséhez (PowerPoint, Prezi)
 lecturers:
   - name: Gujzer Zsuzsanna

@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: TBA
+date: 2015.10.19.
 title: "Reflektorfényben: előadói készségfejlesztés és hatékony prezentáció-készítés"
 lecturers:
   - name: Szabó Krisztina
@@ -15,8 +15,8 @@ schools: összes
 audience: doktoranduszok és doktorjelöltek
 participants: max. 20 fő
 location: TBA
-starttime: ""
-endtime: ""
+starttime: "14:00"
+endtime: "19:00"
 form: 
 ---
 

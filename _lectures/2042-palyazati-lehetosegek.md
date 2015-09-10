@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: TBA
+date: 2015.10.21.
 title: Kutatói pályázati lehetőségek, képességek megalapozása
 lecturers:
   - name: Dr. Bodzay Brigitta
@@ -12,8 +12,8 @@ schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 20 fő
 location: TBA
-starttime: ""
-endtime: ""
+starttime: "9:00"
+endtime: "12:00"
 form: 
 ---
 

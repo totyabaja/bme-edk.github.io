@@ -14,7 +14,7 @@ participants: 5–30 fő
 location: Informatika épület B szárny 2.emelet IB210.
 starttime: "11:15"
 endtime: "13:00"
-form: 
+form: WunGXpM4SY
 ---
 
 # A kurzus ismertetése

@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: TBA
+date: 2015.11.03.
 title: Kommunikációfejlesztés
 lecturers:
   - name: Halász Ágnes
@@ -12,8 +12,8 @@ schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: max. 12 fő
 location: TBA
-starttime: ""
-endtime: ""
+starttime: "14:00"
+endtime: "17:00"
 form: 
 ---
 

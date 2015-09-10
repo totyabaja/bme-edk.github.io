@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: TBA
+date: 2015.11.19.
 title: Nagyméretű dokumentumok Wordben, illetve LibreOffice Writerben
 lecturers:
   - name: Dr. Tichy-Rács Ádám
@@ -11,9 +11,9 @@ duration: 3–4 óra
 schools: összes (doktorjelölteknek is)
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 5–15 fő
-location: TBA
-starttime: ""
-endtime: ""
+location: K épület 1.emelet 52.
+starttime: "9:00"
+endtime: "13:00"
 form: 
 ---
 

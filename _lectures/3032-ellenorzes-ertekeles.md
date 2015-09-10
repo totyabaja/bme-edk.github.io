@@ -17,7 +17,7 @@ participants: 20 fő
 location: E épület  8.emelet 804.
 starttime: "9:00"
 endtime: "12:00"
-form: 
+form: WtK6Pf5lzw
 ---
 
 # A kurzus ismertetése

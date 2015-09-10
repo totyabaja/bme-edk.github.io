@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: TBA
+date: 2015.11.30.
 title: Álláskeresés az egyetemen kívül. A karrierépítés első lépései
 lecturers:
   - name: Illés Zsófia
@@ -18,8 +18,8 @@ schools: összes
 audience: végzős doktoranduszoknak és doktorjelölteknek
 participants: max. 20 fő
 location: TBA
-starttime: ""
-endtime: ""
+starttime: "14:00"
+endtime: "19:00"
 form: 
 ---
 

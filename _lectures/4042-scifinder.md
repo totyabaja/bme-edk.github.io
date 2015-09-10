@@ -14,7 +14,7 @@ participants: max.10 fő
 location: K épület 1.emelet 52.
 starttime: "9:00"
 endtime: "13:00"
-form: 
+form: ohfFvQ0A72
 ---
 
 # A kurzus ismertetése

@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: TBA
+date: 2015.11.06.
 title: Hogyan ne rontsunk el egy előadást, gyakorlatot?
 lecturers:
   - name: Németh Krisztián 
@@ -14,9 +14,9 @@ duration: 3 óra
 schools: összes
 audience: doktoranduszoknak
 participants: 20 fő
-location: TBA
-starttime: ""
-endtime: ""
+location: E épület 11.emelet 4.
+starttime: "10:15"
+endtime: "13:00"
 form: 
 ---
 

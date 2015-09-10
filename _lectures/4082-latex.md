@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: TBA
+date: 2015.11.02.
 title: Tudományos művek írása LaTeX környezetben
 lecturers:
   - name: Szárnyas Gábor
@@ -11,9 +11,9 @@ duration: 4 óra
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: max. 30 fő
-location: TBA
-starttime: ""
-endtime: ""
+location: Informatika épület E szárny 4.emelet IB413.
+starttime: "16:00"
+endtime: "20:00"
 form: 
 ---
 

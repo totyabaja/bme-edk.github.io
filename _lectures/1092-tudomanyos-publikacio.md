@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: TBA
+date: 2015.11.25.
 title: Hogyan készítsünk tudományos publikációt?
 lecturers:
   - name: Kmety Andrea
@@ -12,8 +12,8 @@ schools: összes
 audience: doktoranduszoknak
 participants: 10–40 fő
 location: TBA
-starttime: ""
-endtime: ""
+starttime: "10:00"
+endtime: "12:00"
 form: 
 ---
 

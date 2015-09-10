@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: TBA
+date: 2015.11.09.
 title: Reference Manager programok használata
 lecturers:
   - name: Kmety Andrea
@@ -12,8 +12,8 @@ schools: műszaki, gazdasági
 audience: doktoranduszoknak
 participants: 5–20 fő
 location: TBA
-starttime: ""
-endtime: ""
+starttime: "14:00"
+endtime: "16:00"
 form: 
 ---
 

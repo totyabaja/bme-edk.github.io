@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: TBA
+date: 2015.10.29.
 title: Statisztikai elemzés az ingyenes R szoftverben
 lecturers:
   - name: Mády Katalin
@@ -12,8 +12,8 @@ schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: min. 5 fő
 location: TBA
-starttime: ""
-endtime: ""
+starttime: "9:00"
+endtime: "14:00"
 form: 
 ---
 

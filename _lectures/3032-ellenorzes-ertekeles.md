@@ -1,6 +1,11 @@
 ---
 layout: lecture
 date: 2015.09.30.
+starttime: "9:00"
+endtime: "12:00"
+location:
+  - E épület
+  - 8. emelet 804.
 title: Az ellenőrzés-értékelés korszerű módszerei az oktatói munka során 
 lecturers:
   - name: Dr. Molnár György
@@ -14,9 +19,6 @@ duration: 3 óra
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 20 fő
-location: E épület  8.emelet 804.
-starttime: "9:00"
-endtime: "12:00"
 form: WtK6Pf5lzw
 ---
 

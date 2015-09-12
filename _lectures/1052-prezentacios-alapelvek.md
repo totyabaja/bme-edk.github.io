@@ -1,7 +1,12 @@
 ---
 layout: lecture
 date: 2015.10.08.
+starttime: "14:15"
+endtime: "19:00"
 title: Prezentációs alapelvek és gyakorlati technikák
+location:
+  - E épület
+  - 11. emelet 4.
 lecturers:
   - name: Dr. Tanács János
     title: tanszékvezető helyettes, egyetemi docens
@@ -17,9 +22,6 @@ duration: 5 óra
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 6–14 fő
-location: E épület 11.emelet 4.
-starttime: "14:15"
-endtime: "19:00"
 form: qsHUzlznFF
 ---
 

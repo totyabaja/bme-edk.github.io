@@ -1,6 +1,12 @@
 ---
 layout: lecture
 date: 2015.10.05.
+starttime: "16:00"
+endtime: "20:00"
+location:
+  - Fizika épület
+  - 3. lépcsőház
+  - 2. emelet 13.
 title: MATLAB haladó programozás
 lecturers:
   - name: Dr. Varga Gábor
@@ -11,9 +17,6 @@ duration: 4 óra
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 20 fő
-location: Fizika épület 3.lépcsőház 2.emelet 13.
-starttime: "16:00"
-endtime: "20:00"
 form: j0w1JypYWu
 ---
 

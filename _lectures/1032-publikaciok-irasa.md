@@ -1,6 +1,12 @@
 ---
 layout: lecture
 date: 2015.10.09.
+starttime: "10:15"
+endtime: "12:00"
+location:
+  - Informatika épület
+  - B szárny
+  - 2. emelet IB210.
 title: Publikációk írása
 lecturers:
   - name: Dr. Recski András 
@@ -11,9 +17,6 @@ duration: 2 óra
 schools: Matematika- és Számítástudományok, Informatikai Tudományok és Villamosmérnöki Tudományok
 audience: doktoranduszoknak
 participants: 5–30 fő 
-location: Informatika épület B szárny 2.emelet IB210.
-starttime: "10:15"
-endtime: "12:00"
 form: 6NNnKxFyOj
 ---
 

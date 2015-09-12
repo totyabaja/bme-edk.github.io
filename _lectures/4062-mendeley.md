@@ -1,6 +1,9 @@
 ---
 layout: lecture
 date: TBA
+starttime: ""
+endtime: ""
+location: 
 title: Tudományos források szervezése a Mendeley hivatkozáskezelő és tudományos közösségi háló segítségével
 lecturers:
   - name: Gujzer Zsuzsanna
@@ -14,9 +17,6 @@ duration: 2 óra (90 perc)
 schools: összes
 audience: doktoranduszoknak
 participants: 5–25 fő 
-location: TBA
-starttime: ""
-endtime: ""
 form: 
 ---
 

@@ -1,6 +1,11 @@
 ---
 layout: lecture
 date: 2015.09.23.
+starttime: "8:30"
+endtime: "13:00"
+location:
+  - E épület
+  - 11. emelet 4.
 title: Kiscsoportos oktatás
 lecturers:
   - name: Vidékiné dr. Reményi Judit 
@@ -11,9 +16,6 @@ duration: 5 óra
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 20 fő
-location: E épület 11.emelet 4.
-starttime: "8:30"
-endtime: "13:00"
 form: QnIY0xja0J
 ---
 

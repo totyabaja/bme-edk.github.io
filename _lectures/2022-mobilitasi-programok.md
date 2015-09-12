@@ -1,6 +1,11 @@
 ---
 layout: lecture
 date: 2015.10.27.
+starttime: "13:00"
+endtime: "16:00"
+location:
+  - E épület
+  - 11. emelet 4.
 title: Európai uniós mobilitási programok doktorandusz hallgatók részére
 lecturers:
   - name: Bíró Gábor István
@@ -11,9 +16,6 @@ duration: 3 óra
 schools: összes
 audience: doktoranduszoknak
 participants: 20 fő
-location: E épület 11.emelet 4.
-starttime: "13:00"
-endtime: "16:00"
 form: 
 ---
 

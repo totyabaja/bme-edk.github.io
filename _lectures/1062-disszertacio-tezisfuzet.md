@@ -1,6 +1,12 @@
 ---
 layout: lecture
 date: 2015.10.13.
+starttime: "10:15"
+endtime: "12:00"
+location:
+  - Informatika épület
+  - B szárny
+  - 2. emelet IB210.
 title: Doktori disszertáció és tézisfüzet elkészítése
 lecturers:
   - name: Dr. Molnár Sándor
@@ -11,9 +17,6 @@ duration: 2 óra
 schools: Informatikai Tudományok, Villamosmérnöki Tudományok és Közgazdaságtudományok
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 20 fő
-location: Informatika épület B szárny 2.emelet IB210.
-starttime: "10:15"
-endtime: "12:00"
 form: T3GCt1Ce4U
 ---
 

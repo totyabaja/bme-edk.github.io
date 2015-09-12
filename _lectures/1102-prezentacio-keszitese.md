@@ -1,6 +1,9 @@
 ---
 layout: lecture
 date: 2015.11.11.
+starttime: "14:00"
+endtime: "16:00"
+location:
 title: Praktikus tippek prezentáció készítéséhez (PowerPoint, Prezi)
 lecturers:
   - name: Gujzer Zsuzsanna
@@ -14,9 +17,6 @@ duration: 2 óra (90 perc)
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 5–25 fő 
-location: TBA
-starttime: "14:00"
-endtime: "16:00"
 form: 
 ---
 

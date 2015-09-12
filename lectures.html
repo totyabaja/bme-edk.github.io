@@ -20,7 +20,7 @@ weight: 50
   <table class="table-hover">
     <tr>
       <th>Időpont</th>
-      <th>Helyszín</th>
+      <th width="150">Helyszín</th>
       <th>Kurzus címe</th>
       <th width="200">Előadó(k)</th>
       <th>Regisztráció&nbsp;kód</th>
@@ -39,7 +39,7 @@ weight: 50
         {% endfor %}
 
         </td>
-        <td>{% if lecture.location != "TBA" %}{{ lecture.location }}{% endif %}</td>
+        <td>{% for location_line in lecture.location %}{{ location_line }}<br/>{% endfor %}</td>
         <td><a href="{{ lecture.url | prepend: site.baseurl }}">{{ lecture.title }}</a></td>
         <td>{{ lecture.lecturers | map: 'name' | join: ', <br/>' }}</td>
         <td>PHDLA{{ lecture.phdla }}</td>

@@ -1,6 +1,11 @@
 ---
 layout: lecture
 date: 2015.11.26.
+starttime: "9:15"
+endtime: "13:00"
+location:
+  - E épület
+  - 8. emelet 804
 title: Prezi.com
 lecturers:
   - name: Szalóki Tiborné
@@ -11,9 +16,6 @@ duration: 4 óra
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek 
 participants: 30
-location: E épület 8.emelet 804
-starttime: "9:15"
-endtime: "13:00"
 form: 
 ---
 

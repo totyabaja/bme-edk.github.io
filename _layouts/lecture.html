@@ -35,6 +35,7 @@ layout: default
           {% if additional_time.starttime and additional_time.starttime != "" %}{{ additional_time.starttime }}–{{ additional_time.endtime }}{% endif %}
         {% endfor %}</div>
     <div><strong>Időtartam:</strong> {{ page.duration }}</div>
+    <div><strong>Helyszín:</strong> {{ page | map: 'location' | join: ', ' }}</div>
     <div><strong>Mely doktori iskola részére:</strong> {{ page.schools }}</div>
     <div><strong>Résztvevők ajánlott száma:</strong> {{ page.participants }}</div>
     <div><strong>Kiknek ajánljuk:</strong> {{ page.audience }}</div>

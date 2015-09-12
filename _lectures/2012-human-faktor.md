@@ -1,7 +1,9 @@
 ---
 layout: lecture
 date: 2015.10.02.
-title: A „humán faktor” rejtett hatásai a tudományos gondolkodásban, avagy milyen a jó kutató az akadémiai szférában és az iparban? - 1. rész
+starttime: "15:00"
+endtime: "17:00"
+title: A „humán faktor” rejtett hatásai a tudományos gondolkodásban, avagy milyen a jó kutató az akadémiai szférában és az iparban?
 lecturers:
   - name: Dr. Szántay Csaba
     title: egyetemi magántanár
@@ -12,8 +14,10 @@ schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 40 fő
 location: TBA
-starttime: "15:00"
-endtime: "17:00"
+additional_times:
+  - date: 2015.10.16.
+    starttime: "14:00"
+    endtime: "16:00"
 form: 
 ---
 

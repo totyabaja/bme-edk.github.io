@@ -12,3 +12,5 @@ markdown: kramdown
 collections:
   lectures:
     output: true
+
+repo: https://github.com/bme-edk/bme-edk.github.io

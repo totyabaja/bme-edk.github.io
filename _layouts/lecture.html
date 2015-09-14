@@ -29,10 +29,10 @@ layout: default
     <div><strong>Időpont:</strong> 
         {% assign m = page.date | date: "%-m" %}
         {% if page.date != "TBA" %}
-        {{ page.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ page.date | date: "%-d." }},
-        {% if page.starttime and page.starttime != "" %}{{ page.starttime }}–{{ page.endtime }}{% endif %}{% endif %}{% for additional_time in page.additional_times %}{% assign m2 = additional_time.date | date: "%-m" %}{% if additional_time.date %};
-          {{ additional_time.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ additional_time.date | date: "%-d." }}{% endif %}<br />
-          {% if additional_time.starttime and additional_time.starttime != "" %}{{ additional_time.starttime }}–{{ additional_time.endtime }}{% endif %}
+        {{ page.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ page.date | date: "%-d." }}
+        {% if page.starttime and page.starttime != "" %}{{ page.starttime }}–{{ page.endtime }}{% endif %}{% endif %}{% for additional_time in page.additional_times %}{% assign m2 = additional_time.date | date: "%-m" %}{% if additional_time.date %},
+        {{ additional_time.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ additional_time.date | date: "%-d." }}{% endif %}
+        {% if additional_time.starttime and additional_time.starttime != "" %}{{ additional_time.starttime }}–{{ additional_time.endtime }}{% endif %}
         {% endfor %}</div>
     <div><strong>Időtartam:</strong> {{ page.duration }}</div>
     <div><strong>Helyszín:</strong> {{ page | map: 'location' | join: ', ' }}</div>

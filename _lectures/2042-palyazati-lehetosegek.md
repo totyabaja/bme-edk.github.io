@@ -4,6 +4,8 @@ date: 2015.10.21.
 starttime: "9:00"
 endtime: "12:00"
 location: 
+- K épület 
+- 1. emelet 72.
 title: Kutatói pályázati lehetőségek, képességek megalapozása
 lecturers:
   - name: Dr. Bodzay Brigitta

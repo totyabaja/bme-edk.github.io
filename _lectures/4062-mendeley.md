@@ -4,6 +4,8 @@ date: 2015.11.24.
 starttime: ""
 endtime: ""
 location: 
+- K épület
+- 1. emelet 72.
 title: Tudományos források szervezése a Mendeley hivatkozáskezelő és tudományos közösségi háló segítségével
 lecturers:
   - name: Gujzer Zsuzsanna

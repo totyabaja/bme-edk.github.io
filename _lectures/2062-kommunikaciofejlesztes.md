@@ -4,6 +4,8 @@ date: 2015.11.03.
 starttime: "14:00"
 endtime: "17:00"
 location:
+- K épület
+- 1. emelet 72.
 title: Kommunikációfejlesztés
 lecturers:
   - name: Halász Ágnes

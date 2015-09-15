@@ -4,6 +4,8 @@ date: 2015.11.11.
 starttime: "14:00"
 endtime: "16:00"
 location:
+- K épület
+- 1. emelet 72.
 title: Praktikus tippek prezentáció készítéséhez (PowerPoint, Prezi)
 lecturers:
   - name: Gujzer Zsuzsanna

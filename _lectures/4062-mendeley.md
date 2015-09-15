@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: TBA
+date: 2015.11.24.
 starttime: ""
 endtime: ""
 location: 

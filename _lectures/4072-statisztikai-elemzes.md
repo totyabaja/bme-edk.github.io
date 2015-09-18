@@ -4,6 +4,8 @@ date: 2015.10.29.
 starttime: "9:00"
 endtime: "14:00"
 location: 
+- E épület
+- 11. emelet 4.
 title: Statisztikai elemzés az ingyenes R szoftverben
 lecturers:
   - name: Mády Katalin
@@ -13,7 +15,7 @@ phdla: 4072
 duration: 5 óra
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
-participants: min. 5 fő
+participants: max. 25 fő
 form: 
 ---
 

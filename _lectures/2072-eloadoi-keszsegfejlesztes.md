@@ -19,7 +19,7 @@ duration: 5 óra
 schools: összes
 audience: doktoranduszok és doktorjelöltek
 participants: max. 20 fő
-form: 
+form: MiwIvix12j
 ---
 
 # A kurzus ismertetése

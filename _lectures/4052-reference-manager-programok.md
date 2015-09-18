@@ -1,9 +1,13 @@
 ---
 layout: lecture
 date: 2015.11.09.
-starttime: "14:00"
-endtime: "16:00"
+starttime: "16:00"
+endtime: "18:00"
 location: 
+- Informatika épület
+- 1. emelet 105.
+- Adatbázisok labor
+
 title: Reference Manager programok használata
 lecturers:
   - name: Kmety Andrea

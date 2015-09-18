@@ -15,8 +15,8 @@ phdla: 4072
 duration: 5 óra
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
-participants: max. 25 fő
-form: 
+participants: 5-20 fő
+form: YGEY5oicNJ
 ---
 
 # A kurzus ismertetése

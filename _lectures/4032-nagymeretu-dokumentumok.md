@@ -1,8 +1,8 @@
 ---
 layout: lecture
-date: 2015.11.19.
-starttime: "9:00"
-endtime: "13:00"
+date: 2015.10.26.
+starttime: "14:15"
+endtime: "18:00"
 location:
   - K épület
   - 1. emelet 52.

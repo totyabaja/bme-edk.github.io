@@ -1,0 +1,17 @@
+---
+layout: default
+title: Tudnivalók
+weight: 80
+---
+
+<div class="home">
+
+  <h1 class="page-heading">{{ page.title }}</h1>
+  
+  <ul>
+    {% for guideline in site.guidelines %}
+    <li><a href="{{ guideline.url | prepend: site.baseurl }}">{{ guideline.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+</div>

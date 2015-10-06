@@ -6,7 +6,7 @@ endtime: "19:00"
 title: Prezentációs alapelvek és gyakorlati technikák
 location:
   - E épület
-  - 11. emelet 4.
+  - 11. emelet 1.
 lecturers:
   - name: Dr. Tanács János
     title: tanszékvezető helyettes, egyetemi docens

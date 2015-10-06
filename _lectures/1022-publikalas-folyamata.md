@@ -17,7 +17,7 @@ duration: 2 óra
 schools: Matematika- és Számítástudományok, Informatikai Tudományok és Villamosmérnöki Tudományok
 audience: doktoranduszoknak
 participants: 5–30 fő 
-form: WunGXpM4SY
+form:
 ---
 
 # A kurzus ismertetése

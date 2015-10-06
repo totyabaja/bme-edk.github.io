@@ -1,8 +1,8 @@
 ---
 layout: lecture
-date: 2015.10.02.
-starttime: "15:00"
-endtime: "17:00"
+date: 2015.10.16.
+starttime: "14:00"
+endtime: "16:00"
 location:
 - K épület
 - 1. emelet 72.
@@ -17,9 +17,9 @@ schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 40 fő
 additional_times:
-  - date: 2015.10.16.
-    starttime: "14:00"
-    endtime: "16:00"
+  - date: 2015.10.2.
+    starttime: "15:00"
+    endtime: "17:00"
 form: OrHfUXJdCd
 ---
 

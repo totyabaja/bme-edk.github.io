@@ -16,7 +16,7 @@ duration: 5 óra
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 20 fő
-form: lIcdlpf5Bf
+form:
 ---
 
 # A kurzus ismertetése

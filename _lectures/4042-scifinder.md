@@ -16,7 +16,7 @@ duration: 4 óra
 schools: szinte valamennyi doktori iskola részére javasolható, kivéve a matematika, a gazdaság- és a társadalomtudományok területeit.
 audience: doktoranduszoknak és doktorjelölteknek
 participants: max. 10 fő
-form: ohfFvQ0A72
+form: 
 ---
 
 # A kurzus ismertetése

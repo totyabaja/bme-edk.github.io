@@ -1,8 +1,8 @@
 ---
 layout: lecture
 date: 2015.11.24.
-starttime: ""
-endtime: ""
+starttime: "10:00"
+endtime: "14:00"
 location: 
 - K épület
 - 1. emelet 72.
@@ -19,7 +19,7 @@ duration: 2 óra (90 perc)
 schools: összes
 audience: doktoranduszoknak
 participants: 5–25 fő 
-form: 
+form: ApnzPYpIQG
 ---
 
 # A kurzus ismertetése

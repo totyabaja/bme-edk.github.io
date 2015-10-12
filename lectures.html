@@ -17,6 +17,8 @@ weight: 50
     <li>Az informatikai készségek magasabb szintre emelését támogató kurzusok.</li>
   </ol>
 
+  A kurzuskód első számjegye mutatja, hogy az adott a kurzus a fenti kategóriák melyikébe tartozik.
+
   <table class="table-hover">
     <tr>
       <th>Időpont</th>
@@ -28,7 +30,7 @@ weight: 50
     </tr>
     {% assign lectures = site.lectures | sort: 'phdla' | sort: 'date' %}
     {% for lecture in lectures %}
-      <tr>
+      <tr{% if lecture.form == nil %} class="noapplications"{% endif %}>
         <td>
         {% assign m = lecture.date | date: "%-m" %}
         {% if lecture.date != "TBA" %}

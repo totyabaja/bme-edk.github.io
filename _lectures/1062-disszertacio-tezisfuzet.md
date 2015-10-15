@@ -17,7 +17,7 @@ duration: 2 óra
 schools: Informatikai Tudományok, Villamosmérnöki Tudományok és Közgazdaságtudományok
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 20 fő
-form: T3GCt1Ce4U
+form:
 ---
 
 # A kurzus ismertetése

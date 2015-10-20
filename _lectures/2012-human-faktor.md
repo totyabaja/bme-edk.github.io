@@ -20,7 +20,7 @@ additional_times:
   - date: 2015.10.2.
     starttime: "15:00"
     endtime: "17:00"
-form: OrHfUXJdCd
+form:
 ---
 
 # A kurzus ismertetése

@@ -16,7 +16,7 @@ duration: 3 óra
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 20 fő
-form: NJ19wyoa98
+form:
 ---
 
 # A kurzus ismertetése

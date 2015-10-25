@@ -38,7 +38,8 @@ layout: default
     <div><strong>Helyszín:</strong> {{ page | map: 'location' | join: ', ' }}</div>
     <div><strong>Mely doktori iskola részére:</strong> {{ page.schools }}</div>
     <div><strong>Résztvevők ajánlott száma:</strong> {{ page.participants }}</div>
-    <div><strong>Kiknek ajánljuk:</strong> {{ page.audience }}</div>    
+    <div><strong>Kiknek ajánljuk:</strong> {{ page.audience }}</div>
+    {% if page.form %}<div><strong>Jelentkezés:</strong> <a href="http://goo.gl/forms/{{ page.form }}">jelentkezési űrlap</a></strong></div>{% endif %}
   </article>
 
 </div>

@@ -15,7 +15,7 @@ A KURZUSOK LEÍRÁSA ÉS IDŐPONTJA, VALAMINT A JELENTKEZÉS A [KURZUSOK](/lectu
 
 Minden doktorandusz hallgatót és fiatal kutatót szeretettel várunk!
 
-Ne hallogasd a részvételedet, nem bánod meg!
+Ne halogasd a részvételedet, nem bánod meg!
 
 Üdvözlettel:<br/>
 az Egyetemi Doktorandusz Képviselet vezetősége<br/>

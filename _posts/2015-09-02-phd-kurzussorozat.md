@@ -11,7 +11,7 @@ A BME doktori képzésében résztvevő PhD/DLA hallgatók és a BME-n doktori f
 A kurzusok nem tantárgyak. Céljuk, hogy azonnal alkalmazható tudást közvetítsenek a résztvevőknek. Egy-egy kurzus teljes óraszáma 2 óra és 5 óra között van. A kurzusok többsége a BME összes doktorandusz hallgatójának szól, azonban vannak Doktori Iskola specifikus kurzusok is. A kurzusokon a részvétel ingyenes, de a korlátozott létszám miatt előzetes jelentkezéshez kötött.
 Az Egyetemi Doktorandusz Képviselet, a doktoranduszok igényeit figyelembe véve, közreműködött abban, hogy mely témában induljanak kurzusok, továbbá szervezi a tájékoztatást, a jelentkeztetést és a kurzusok lebonyolítását. 
 
-A KURZUSOK LEÍRÁSA ÉS IDŐPONTJA, VALAMINT A JELENTKEZÉS A [KURZUSOK](/lectures.html) OLDALON TALÁLHATÓ MEG. 
+A kurzusok leírása és időpontja, valamint a jelentkezés a *[kurzusok](/lectures.html)* oldalon található.
 
 Minden doktorandusz hallgatót és fiatal kutatót szeretettel várunk!
 

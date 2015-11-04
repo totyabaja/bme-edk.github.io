@@ -5,6 +5,7 @@ starttime: "16:00"
 endtime: "18:00"
 location: 
 - Informatika épület
+- L szárny
 - 1. emelet 105.
 - Adatbázisok labor
 

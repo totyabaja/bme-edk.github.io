@@ -1,8 +1,8 @@
 ---
 layout: lecture
-date: 
-starttime: ""
-endtime: ""
+date: 2015.11.23.
+starttime: "16:00"
+endtime: "18:00"
 location: 
 - Informatika épület
 - L szárny

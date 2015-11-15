@@ -19,7 +19,7 @@ duration: 2 óra
 schools: műszaki, gazdasági
 audience: doktoranduszoknak
 participants: 5–20 fő
-form: 
+form: QqT0waMNTK
 ---
 
 # A kurzus ismertetése

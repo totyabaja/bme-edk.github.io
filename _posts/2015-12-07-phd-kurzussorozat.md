@@ -2,7 +2,7 @@
 layout: post
 categories: news
 date: 2015-12-07
-title: Kutatói készségfejlesztő kurzussorozat doktoranduszoknak és fiatal kutatóknak
+title: Lezajlott a kutatói készségfejlesztő kurzussorozat
 ---
 
 Kedves Doktorandusz és Fiatal Kutató!

@@ -15,6 +15,7 @@ location:
 starttime: ""
 endtime: ""
 form: 
+semester: 20xx-20yy-z
 ---
 
 # A kurzus ismertetése

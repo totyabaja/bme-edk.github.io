@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: 2016.11.02.
+date:
 starttime: "16:00"
 endtime: "20:00"
 location:

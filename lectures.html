@@ -40,8 +40,8 @@ weight: 50
       <tr>
         <td>
           {% assign m = lecture.date | date: "%-m" %}
-          {% assign year = lecture.date | date: "%Y" %}
-          {{ year }}.&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ lecture.date | date: "%-d." }}<br />
+          {% assign year = lecture.date | date: "%Y." %}
+          {{ year }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ lecture.date | date: "%-d." }}<br />
           {% if lecture.starttime and lecture.starttime != "" %}{{ lecture.starttime }}–{{ lecture.endtime }}{% endif %}{% for additional_time in lecture.additional_times %}{% assign m2 = additional_time.date | date: "%-m" %}{% if additional_time.date %}, <br />
           {{ additional_time.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ additional_time.date | date: "%-d." }}<br />
           {% if additional_time.starttime and additional_time.starttime != "" %}{{ additional_time.starttime }}–{{ additional_time.endtime }}{% endif %}{% endif %}

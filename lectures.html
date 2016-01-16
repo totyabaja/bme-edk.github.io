@@ -6,6 +6,12 @@ weight: 50
 
 {% assign current_semester = '2015-2016-2' %}
 
+{% assign lectures = site.lectures | sort: 'phdla' | sort: 'date' %}
+
+{% for lecture in lectures %}
+  {{ lecture.date }} <br/>
+{% endfor %}
+
 <div class="home">
 
   <h1 class="page-heading">{{ page.title }}</h1>
@@ -32,12 +38,6 @@ weight: 50
       <th>Kurzuskód</th>
       <th>Jelentkezés</th>
     </tr>
-    {% assign lectures = site.lectures | sort: 'phdla' | sort: 'date' %}
-
-
-    {% for lecture in lectures %}
-      {{ lecture.date }}
-    {% endfor %}
 
     {% for lecture in lectures %}
       {{ lecture.semester }}

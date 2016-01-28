@@ -12,7 +12,7 @@ lecturers:
   - name: Szárnyas Gábor
     title: PhD hallgató
     institute: Méréstechnika és Információs Rendszerek Tanszék, BME Villamosmérnöki és Informatikai Kar
-phdla: 4082
+phdla: 4083
 duration: 4 óra
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek

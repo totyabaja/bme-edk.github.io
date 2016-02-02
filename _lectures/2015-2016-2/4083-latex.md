@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date:
+date: 2016.12.31.
 starttime: "16:00"
 endtime: "20:00"
 location:
@@ -17,7 +17,7 @@ duration: 4 óra
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: max. 30 fő
-form: 
+form:
 semester: 2015-2016-2
 ---
 

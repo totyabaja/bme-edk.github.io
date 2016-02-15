@@ -9,15 +9,15 @@ location:
   - 2. emelet IB210.
 title: A publikálás folyamata
 lecturers:
-  - name: Dr. Recski András 
+  - name: Dr. Recski András
     title: egyetemi tanár
     institute: Számítástudományi és Információelméleti Tanszék, BME Villamosmérnöki és Informatikai Kar
 phdla: 1022
 duration: 2 óra
 schools: Matematika- és Számítástudományok, Informatikai Tudományok és Villamosmérnöki Tudományok
 audience: doktoranduszoknak
-participants: 5–30 fő 
-form: 
+participants: 5–30 fő
+form:
 semester: 2015-2016-1
 ---
 

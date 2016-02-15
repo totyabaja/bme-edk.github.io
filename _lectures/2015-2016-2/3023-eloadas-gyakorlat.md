@@ -1,8 +1,8 @@
 ---
 layout: lecture
-date: 2015.11.06.
-starttime: "10:15"
-endtime: "13:00"
+date: 2016.03.31.
+starttime: "14:15"
+endtime: "16:30"
 location:
   - E épület
   - 11. emelet 4.
@@ -14,13 +14,13 @@ lecturers:
   - name: Kőrösi Attila
     title: tanszéki mérnök
     institute: Távközlési és Médiainformatikai Tanszék, BME Villamosmérnöki és Informatikai Kar
-phdla: 3022
+phdla: 3023
 duration: 3 óra
 schools: összes
 audience: doktoranduszoknak
 participants: 20 fő
 form:
-semester: 2015-2016-1
+semester: 2015-2016-2
 ---
 
 # A kurzus ismertetése

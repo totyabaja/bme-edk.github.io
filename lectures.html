@@ -36,24 +36,25 @@ weight: 50
 
     {% for lecture in lectures %}
       {% if lecture.semester == current_semester %}
+      {% assign m = lecture.date | date: "%-m" %}
+      {% assign year = lecture.date | date: "%Y." %}
+          {% if year != "1970." %}
+          <tr>
+            <td>
+              {{ year }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ lecture.date | date: "%-d." }}<br />
+              {% if lecture.starttime and lecture.starttime != "" %}{{ lecture.starttime }}–{{ lecture.endtime }}{% endif %}{% for additional_time in lecture.additional_times %}{% assign m2 = additional_time.date | date: "%-m" %}{% if additional_time.date %}, <br />
+              {{ additional_time.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ additional_time.date | date: "%-d." }}<br />
+              {% if additional_time.starttime and additional_time.starttime != "" %}{{ additional_time.starttime }}–{{ additional_time.endtime }}{% endif %}{% endif %}
+              {% endfor %}
+            </td>
 
-      <tr>
-        <td>
-          {% assign m = lecture.date | date: "%-m" %}
-          {% assign year = lecture.date | date: "%Y." %}
-          {{ year }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ lecture.date | date: "%-d." }}<br />
-          {% if lecture.starttime and lecture.starttime != "" %}{{ lecture.starttime }}–{{ lecture.endtime }}{% endif %}{% for additional_time in lecture.additional_times %}{% assign m2 = additional_time.date | date: "%-m" %}{% if additional_time.date %}, <br />
-          {{ additional_time.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ additional_time.date | date: "%-d." }}<br />
-          {% if additional_time.starttime and additional_time.starttime != "" %}{{ additional_time.starttime }}–{{ additional_time.endtime }}{% endif %}{% endif %}
-          {% endfor %}
-        </td>
-
-        <td>{% for location_line in lecture.location %}{{ location_line }}<br/>{% endfor %}</td>
-        <td><a href="{{ lecture.url | prepend: site.baseurl }}">{{ lecture.title }}</a></td>
-        <td>{{ lecture.lecturers | map: 'name' | join: ', <br/>' }}</td>
-        <td>PHDLA{{ lecture.phdla }}</td>
-        <td>{% if lecture.form %}<a href="http://goo.gl/forms/{{ lecture.form }}">jelentkezés</a>{% endif %}</td>
-      </tr>
+            <td>{% for location_line in lecture.location %}{{ location_line }}<br/>{% endfor %}</td>
+            <td><a href="{{ lecture.url | prepend: site.baseurl }}">{{ lecture.title }}</a></td>
+            <td>{{ lecture.lecturers | map: 'name' | join: ', <br/>' }}</td>
+            <td>PHDLA{{ lecture.phdla }}</td>
+            <td>{% if lecture.form %}<a href="http://goo.gl/forms/{{ lecture.form }}">jelentkezés</a>{% endif %}</td>
+          </tr>
+          {% endif %}
       {% endif %}
     {% endfor %}
   </table>

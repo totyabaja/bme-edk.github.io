@@ -11,10 +11,10 @@ duration: 2 óra
 schools: műszaki
 audience: doktoranduszoknak, doktorjelölteknek és fiatal kutatóknak
 participants: min. 10 fő
-location: E épület 11. emelet (?)
+location: E épület 11. emelet 4.
 starttime: "12:15"
 endtime: "14:00"
-form:
+form:n0X1lD9g7P
 semester: 2015-2016-2
 ---
 

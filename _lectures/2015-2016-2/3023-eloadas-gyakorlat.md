@@ -2,10 +2,10 @@
 layout: lecture
 date: 2016.03.31.
 starttime: "14:15"
-endtime: "16:30"
+endtime: "17:30"
 location:
   - E épület
-  - 11. emelet 4.
+  - 8. emelet 803.
 title: Hogyan ne rontsunk el egy előadást, gyakorlatot?
 lecturers:
   - name: Németh Krisztián
@@ -19,7 +19,7 @@ duration: 3 óra
 schools: összes
 audience: doktoranduszoknak
 participants: 20 fő
-form:
+form: yG6IiwVqiI
 semester: 2015-2016-2
 ---
 

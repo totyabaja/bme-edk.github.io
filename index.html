@@ -9,7 +9,7 @@ weight: 10
   <h1 class="page-heading">{{ page.title }}</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+      {% for post in paginator.posts %}
       <li>
         {% assign m = post.date | date: "%-m" %}
         <span class="post-meta">{{ post.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ post.date | date: "%-d." }}</span>
@@ -23,6 +23,18 @@ weight: 10
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS feed</a></p>
+  <div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">[előző]</a>
+  {% else %}
+    <span class="previous"></span>
+  {% endif %}
+  <span class="page_number ">oldalak: {{ paginator.page }} / {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">[következő]</a>
+  {% else %}
+    <span class="next "></span>
+  {% endif %}
+  </div>
 
 </div>

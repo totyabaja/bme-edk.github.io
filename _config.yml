@@ -4,7 +4,7 @@ email:
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://edk.inf.mit.bme.hu/" # the base hostname & protocol for your site
 
-# Build settings
+gems: [jekyll-paginate]
 markdown: kramdown
 
 # additions
@@ -18,3 +18,5 @@ collections:
 repo: https://github.com/bme-edk/bme-edk.github.io/tree/master/
 
 future: true
+
+paginate: 1

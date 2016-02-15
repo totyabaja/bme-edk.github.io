@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: 2016.04.04.
+date: 2016.4.4.
 starttime: "8:30"
 endtime: "13:00"
 location:
@@ -17,7 +17,7 @@ schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 20 fő
 form: cXSN8eBnWh
-semester: 2015-2016-1
+semester: 2015-2016-2
 ---
 
 # A kurzus ismertetése

@@ -17,7 +17,7 @@ schools: összes,  kivéve a matematika, a gazdaság- és a társadalomtudomány
 audience: doktoranduszoknak és doktorjelölteknek
 participants: max. 10 fő
 form:
-semester: 2015-2016-1
+semester: 2015-2016-2
 ---
 
 # A kurzus ismertetése

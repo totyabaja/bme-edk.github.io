@@ -11,7 +11,7 @@ lecturers:
   - name: Szalóki Tiborné
     title: tanársegéd
     institute: Műszaki Pedagógia Tanszék, BME Gazdaság- és Társadalomtudományi Kar
-phdla: 1072
+phdla: 1073
 duration: 4 óra
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek

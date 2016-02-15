@@ -1,7 +1,7 @@
 ---
 layout: lecture
 date: 2016.03.09
-title:
+title: A szoftver két értéke, avagy hogyan készítsünk karbantartható szoftvert
 lecturers:
   - name: Dr. Ekler Péter
     title: adjunktus

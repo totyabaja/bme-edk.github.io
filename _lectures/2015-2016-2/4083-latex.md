@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: 2016.12.31.
+date:
 starttime: "16:00"
 endtime: "20:00"
 location:
@@ -23,7 +23,7 @@ semester: 2015-2016-2
 
 # A kurzus ismertetése
 
-A tudományos szövegek közös jellemzője, hogy sok képletet, kereszthivatkozást és irodalomhivatkozást tartalmaznak. A LaTeX [ejtsd: lateh] nyelv célja, hogy hatékonyan támogassa ilyen dokumentumok elkészítését. A LaTeX irodalomkezelő rendszere (BibTeX) rendkívül kifinomult és széleskörben támogatott. A legtöbb konferencia és folyóirat biztosít LaTeX sablont a publikációk elkészítéséhez, bizonyos tudományterületeken (pl. fizika, matematika, informatika) pedig a legtöbb mű ezen a nyelven készül.
+A tudományos szövegek közös jellemzője, hogy sok képletet, kereszthivatkozást és irodalomhivatkozást tartalmaznak. A LaTeX [ejtsd: lateh] nyelv célja, hogy hatékonyan támogassa ilyen dokumentumok elkészítését. A LaTeX irodalomkezelő rendszere (BibTeX) rendkívül kifinomult és széleskörben támogatott. A legtöbb konferencia és folyóirat biztosít LaTeX sablont a publikációk elkészítéséhez, bizonyos tudományterületeken (pl. fizika, matematika, informatika) el is várják, hogy a mű ezen a nyelven készüljön.
 
 A kurzus bemutatja a LaTeX dokumentumok felépítését és a nyelv alapelemeit. Egy LaTeX szerkesztőben egyszerű példákon keresztül végigvezet a dokumentum fordításának lépésein. Kitér a leghasznosabb internetes forrásokra és a különböző csomagok dokumentációjának használatára.
 
@@ -33,6 +33,7 @@ A kurzus további célja, hogy a gyakori hibákra felhívja a figyelmet, így be
 
 A kurzus elvégzése által a résztvevők képessé válnak
 
+* az eredményeik profi megjelenítésére
 * LaTeX nyelven készült sablonok használatára,
 * ábrák beszúrására és azok hivatkozására,
 * egyszerű képletek és táblázatok írására és hivatkozására,

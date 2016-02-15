@@ -1,6 +1,6 @@
 # Site settings
 title: BME Egyetemi Doktorandusz Képviselet
-email: 
+email:
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://edk.inf.mit.bme.hu/" # the base hostname & protocol for your site
 
@@ -16,3 +16,5 @@ collections:
     output: true
 
 repo: https://github.com/bme-edk/bme-edk.github.io/tree/master/
+
+future: true

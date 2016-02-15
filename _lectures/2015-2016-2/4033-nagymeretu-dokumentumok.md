@@ -11,12 +11,12 @@ lecturers:
   - name: Dr. Tichy-Rács Ádám
     title: szaktájékoztató
     institute: BME OMIKK
-phdla: 4032
+phdla: 4033
 duration: 3–4 óra
 schools: összes,  kivéve a matematika, a gazdaság- és a társadalomtudományok területeit
 audience: doktoranduszoknak és doktorjelölteknek
 participants: max. 10 fő
-form:
+form: IqlblLbxWs
 semester: 2015-2016-2
 ---
 

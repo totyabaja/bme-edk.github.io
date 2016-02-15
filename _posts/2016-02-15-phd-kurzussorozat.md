@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: news
-date: 2015-12-15
+date: 2016-02-15
 title: Kutatói készségfejlesztő kurzussorozat doktoranduszoknak és fiatal kutatóknak
 ---
 

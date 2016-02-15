@@ -14,7 +14,7 @@ participants: min. 10 fő
 location: E épület 11. emelet 4.
 starttime: "12:15"
 endtime: "14:00"
-form:n0X1lD9g7P
+form: n0X1lD9g7P
 semester: 2015-2016-2
 ---
 

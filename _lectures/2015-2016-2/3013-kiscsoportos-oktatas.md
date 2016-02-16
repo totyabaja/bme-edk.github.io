@@ -12,9 +12,9 @@ lecturers:
     title: egyetemi docens
     institute: Műszaki Pedagógia Tanszék, BME Gazdaság- és Társadalomtudományi Kar
 phdla: 3013
-duration: 5 óra
+duration: 4,5 óra
 schools: összes
-audience: doktoranduszoknak és doktorjelölteknek
+audience: doktoranduszoknak, doktorjelölteknek és fiatal kutatóknak
 participants: 20 fő
 form: cXSN8eBnWh
 semester: 2015-2016-2

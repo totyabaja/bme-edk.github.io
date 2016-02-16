@@ -6,8 +6,7 @@ endtime: "17:00"
 location:
 - K épület
 - 1. emelet 72.
-title: 
-Az "emberi tényező" szerepe a tudományos gondolkodásban, avagy: milyen a jó kutató az akadémiai szférában és az iparban?
+title: Az emberi tényező szerepe a tudományos gondolkodásban, avagy: milyen a jó kutató az akadémiai szférában és az iparban?
 lecturers:
   - name: Dr. Szántay Csaba
     title: egyetemi magántanár

@@ -8,9 +8,6 @@ location:
   - E épület
   - 11. emelet 2.
 lecturers:
-  - name: Dr. Tanács János
-    title: tanszékvezető helyettes, egyetemi docens
-    institute: Filozófia és Tudománytörténet Tanszék, BME Gazdaság- és Társadalomtudományi Kar
   - name: Elek Nikolett
     title: PhD-hallgató
     institute: Filozófia és Tudománytörténet Tanszék, BME Gazdaság- és Társadalomtudományi Kar
@@ -20,8 +17,8 @@ lecturers:
 phdla: 1053
 duration: 3 óra
 schools: összes
-audience: doktoranduszoknak és doktorjelölteknek
-participants: 6–14 fő
+audience: doktoranduszoknak, doktorjelölteknek és fiatal kutatóknak
+participants: 20 fő
 form: YN7R51mZpu
 semester: 2015-2016-2
 ---

@@ -14,8 +14,8 @@ lecturers:
 phdla: 1083
 duration: 4 óra
 schools: összes
-audience: doktoranduszoknak és doktorjelölteknek 
-participants: 30
+audience: doktoranduszoknak, doktorjelölteknek és fiatal kutatóknak
+participants: 20
 form: XXiSWG2C24
 semester: 2015-2016-2
 ---

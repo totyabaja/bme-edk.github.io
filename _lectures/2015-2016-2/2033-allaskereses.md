@@ -18,7 +18,7 @@ phdla: 2033
 duration: 5 óra
 schools: összes
 audience: végzős doktoranduszoknak és doktorjelölteknek
-participants: max. 20 fő
+participants: 4-12 fő
 form: 1Y46cgPzDw
 semester: 2015-2016-2
 ---

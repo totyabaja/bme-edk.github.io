@@ -14,8 +14,7 @@ participants: 5-30 fő
 location:
 - Informatika épület
 - B szárny
-- 2. emelet 
-- IB210
+- 2. emelet IB210
 starttime: "10:15"
 endtime: "12:0"
 form:

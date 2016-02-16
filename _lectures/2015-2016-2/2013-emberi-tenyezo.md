@@ -1,12 +1,13 @@
 ---
 layout: lecture
-date: 2016.04.13.
+date: 2016.4.13.
 starttime: "15:00"
 endtime: "17:00"
 location:
 - K épület
 - 1. emelet 72.
-title: Az "emberi tényező" szerepe a tudományos gondolkodásban, avagy: milyen a jó kutató az akadémiai szférában és az iparban?a jó kutató az akadémiai szférában és az iparban?
+title: 
+Az "emberi tényező" szerepe a tudományos gondolkodásban, avagy: milyen a jó kutató az akadémiai szférában és az iparban?
 lecturers:
   - name: Dr. Szántay Csaba
     title: egyetemi magántanár

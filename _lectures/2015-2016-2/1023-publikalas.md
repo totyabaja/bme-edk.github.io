@@ -16,22 +16,21 @@ location:
 - B szárny
 - 2. emelet IB210
 starttime: "10:15"
-endtime: "12:0"
+endtime: "12:00"
 form:
 semester: 2015-2016-2
 ---
 
 # A kurzus ismertetése
-•	Mikor érett már egy eredmény a publikálásra, társszerzők kérdése.
-•	Konferencián vagy folyóiratban való publikálás, a folyóirat kiválasztása.
-•	A téma és a megcélzott olvasói kör pontos azonosítása, terjedelem megbecsülése
-•	Cím, absztrakt, bevezetés, irodalmi áttekintés, saját eredmények, következtetések, irodalomjegyzék
-•	Társszerzők, köszönetnyilvánítás személyeknek és pénzügyi támogatóknak.
-•	Szövegszerkesztők használata, ábrák, táblázatok
-•	Hivatkozások, önhivatkozások
-•	A benyújtás folyamata, a bírálatok alapján történő átdolgozások. Archiválás
-•	Etikai kérdések
-
+- Mikor érett már egy eredmény a publikálásra, társszerzők kérdése.
+- Konferencián vagy folyóiratban való publikálás, a folyóirat kiválasztása.
+- A téma és a megcélzott olvasói kör pontos azonosítása, terjedelem megbecsülése
+- Cím, absztrakt, bevezetés, irodalmi áttekintés, saját eredmények, következtetések, irodalomjegyzék
+- Társszerzők, köszönetnyilvánítás személyeknek és pénzügyi támogatóknak.
+- Szövegszerkesztők használata, ábrák, táblázatok
+- Hivatkozások, önhivatkozások
+- A benyújtás folyamata, a bírálatok alapján történő átdolgozások. Archiválás
+-Etikai kérdések
 
 # Hatása
 A doktorandusz hallgató – témavezetőjével egyeztetve – tudatosabban tervezheti a publikációs tevékenységét és készítheti el a publikációit, elkerülhet néhány gyakori hibát, felkészülhet arra, hogy később nem csak szerzőként, hanem lektorként, esetleg szerkesztőként is tevékenykedhet.

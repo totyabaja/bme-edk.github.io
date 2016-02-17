@@ -16,7 +16,7 @@ location:
 - Földszint 2.
 starttime: "10:15"
 endtime: "12:00"
-form:
+form: yoDwgMhoIC
 semester: 2015-2016-2
 ---
 

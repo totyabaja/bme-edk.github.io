@@ -17,7 +17,7 @@ lecturers:
 phdla: 2073
 duration: 5 óra
 schools: összes
-audience: végzős doktoranduszoknak
+audience: végzős doktoranduszoknak és doktorjelölteknek
 participants: max. 20 fő
 form: fesF4t5Xxj
 semester: 2015-2016-2

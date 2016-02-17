@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: 2016.05.18.
+date: 2016.03.18.
 title: Tanácsok a sikeres publikáláshoz
 lecturers:
   - name: Dr. Recski András

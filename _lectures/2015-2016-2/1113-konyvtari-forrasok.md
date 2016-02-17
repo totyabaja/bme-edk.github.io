@@ -17,9 +17,9 @@ participants: 10-25 fő
 location:
 - BME Könyvtár épület 
 - Földszint 2.
-starttime: "13:15"
-endtime: "15:00"
-form:
+starttime: "10:15"
+endtime: "12:00"
+form: r34GUh3qSM
 semester: 2015-2016-2
 ---
 

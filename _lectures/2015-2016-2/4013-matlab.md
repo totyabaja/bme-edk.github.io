@@ -1,8 +1,8 @@
 ---
 layout: lecture
 date: 2016.03.18.
-starttime: "12:15"
-endtime: "16:00"
+starttime: "14:15"
+endtime: "18:00"
 location:
   - Fizika épület
   - 3. lépcsőház

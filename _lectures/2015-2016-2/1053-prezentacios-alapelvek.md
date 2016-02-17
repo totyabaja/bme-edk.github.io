@@ -18,7 +18,7 @@ phdla: 1053
 duration: 3 óra
 schools: összes
 audience: doktoranduszoknak, doktorjelölteknek és fiatal kutatóknak
-participants: 20 fő
+participants: 12 fő (min. 3 fő, max. 14 fő)
 form: YN7R51mZpu
 semester: 2015-2016-2
 ---

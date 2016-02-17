@@ -1,7 +1,7 @@
 ---
 layout: lecture
 date: 2016.05.18.
-title:Tanácsok a sikeres publikáláshoz
+title: Tanácsok a sikeres publikáláshoz
 lecturers:
   - name: Dr. Recski András
     title: egyetemi tanár
@@ -17,7 +17,7 @@ location:
 - 2. emelet IB210
 starttime: "10:15"
 endtime: "12:00"
-form:
+form: 9iN6Ga5c1m
 semester: 2015-2016-2
 ---
 

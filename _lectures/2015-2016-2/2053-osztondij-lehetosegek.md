@@ -22,13 +22,13 @@ semester: 2015-2016-2
 
 # A kurzus ismertetése
 
-Doktorandusz hallgatók számára kiírt (BME-s, magyar és külföldi) ösztöndíj lehetőségek megismerése a szakmai előmenetelhez és a kutatói tapasztalatcsere bővítéséhez (szakmai jártasság, külföldi tapasztalatszerzés és eredmények publikálása témakörökben). 
+Doktorandusz hallgatók és fiatal kutatók számára kiírt (BME-s, magyar és külföldi) ösztöndíj lehetőségek megismerése a szakmai előmenetelhez és a kutatói tapasztalatcsere bővítéséhez (szakmai jártasság, külföldi tapasztalatszerzés és eredmények publikálása témakörökben). 
 
 A pályázati információs portálok és pályázattípusok (nemzeti kiválóság program, nemzetközi együttműködések, Erasmus, Campus Hungary, DAAD, Fulbright, SCIEX, HAESF, EHK pályázatai stb.). megismerése, pályázatírás menetének és fortélyainak elsajátítása. Mintapályázat elkészítése.
 
 # Hatása
 
-A doktorandusz hallgatók
+A doktorandusz hallgatók és fiatal kutatók
 
 * megismerik az aktuális pályázatok felépítését, főbb kritériumait,
 * képessé válnak saját maguk számára pályázati lehetőségeket felkutatni,

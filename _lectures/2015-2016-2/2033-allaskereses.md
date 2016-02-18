@@ -5,7 +5,7 @@ starttime: "14:00"
 endtime: "19:00"
 location:
 - BME Könyvtár
-- földszint
+- Földszint 2.
 title: Álláskeresés az egyetemen kívül. A karrierépítés első lépései
 lecturers:
   - name: Szabó Krisztina

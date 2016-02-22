@@ -17,7 +17,7 @@ lecturers:
 phdla: 3023
 duration: 3 óra
 schools: összes
-audience: doktoranduszoknak
+audience: doktoranduszoknak, doktorjelölteknek és fiatal kutatóknak
 participants: 20 fő
 form: yG6IiwVqiI
 semester: 2015-2016-2

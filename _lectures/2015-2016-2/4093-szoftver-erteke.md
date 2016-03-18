@@ -1,6 +1,11 @@
 ---
 layout: lecture
 date: 2016.03.09
+starttime: "12:15"
+endtime: "14:00"
+location:
+  - E épület
+  - 11. emelet 4.
 title: A szoftver két értéke, avagy hogyan készítsünk karbantartható szoftvert
 lecturers:
   - name: Dr. Ekler Péter
@@ -11,9 +16,6 @@ duration: 2 óra
 schools: műszaki
 audience: doktoranduszoknak, doktorjelölteknek és fiatal kutatóknak
 participants: min. 10 fő
-location: E épület 11. emelet 4.
-starttime: "12:15"
-endtime: "14:00"
 form: 
 semester: 2015-2016-2
 ---

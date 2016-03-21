@@ -22,7 +22,7 @@ weight: 50
 
   A kurzuskód első számjegye mutatja, hogy az adott a kurzus a fenti kategóriák melyikébe tartozik.
 
-  <h2>Aktuális kurzusok</h2>
+  <h2>Aktuális kurzusok (2016. tavasz)</h2>
 
     <table class="table-hover">
     <tr>
@@ -59,7 +59,7 @@ weight: 50
     {% endfor %}
   </table>
 
-  <h2>Korábbi kurzusok</h2>
+  <h2>Korábbi kurzusok (2016. tavasz)</h2>
 
   <table class="table-hover no-forms">
     <tr>
@@ -72,7 +72,42 @@ weight: 50
     </tr>
 
     {% for lecture in lectures %}
-      {% if lecture.semester != current_semester or lecture.form == nil %}
+      {% if lecture.semester == current_semester and lecture.form == nil %}
+        <tr>
+          <td>
+            {% assign m = lecture.date | date: "%-m" %}
+            {% assign year = lecture.date | date: "%Y" %}
+            {{ year }}.&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ lecture.date | date: "%-d." }}<br />
+            {% if lecture.starttime and lecture.starttime != "" %}{{ lecture.starttime }}–{{ lecture.endtime }}{% endif %}{% for additional_time in lecture.additional_times %}{% assign m2 = additional_time.date | date: "%-m" %}{% if additional_time.date %}, <br />
+            {{ additional_time.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ additional_time.date | date: "%-d." }}<br />
+            {% if additional_time.starttime and additional_time.starttime != "" %}{{ additional_time.starttime }}–{{ additional_time.endtime }}{% endif %}{% endif %}
+            {% endfor %}
+          </td>
+
+          <td>{% for location_line in lecture.location %}{{ location_line }}<br/>{% endfor %}</td>
+          <td><a href="{{ lecture.url | prepend: site.baseurl }}">{{ lecture.title }}</a></td>
+          <td>{{ lecture.lecturers | map: 'name' | join: ', <br/>' }}</td>
+          <td>PHDLA{{ lecture.phdla }}</td>
+          <td>{% if lecture.form %}<a href="http://goo.gl/forms/{{ lecture.form }}">jelentkezés</a>{% endif %}</td>
+        </tr>
+      {% endif %}
+    {% endfor %}
+  </table>
+
+  <h2>Korábbi kurzusok (2015)</h2>
+
+  <table class="table-hover no-forms">
+    <tr>
+      <th>Időpont</th>
+      <th width="150">Helyszín</th>
+      <th>Kurzus címe</th>
+      <th width="200">Előadó(k)</th>
+      <th>Kurzuskód</th>
+      <th>Jelentkezés</th>
+    </tr>
+
+    {% for lecture in lectures %}
+      {% if lecture.semester != current_semester %}
         <tr>
           <td>
             {% assign m = lecture.date | date: "%-m" %}

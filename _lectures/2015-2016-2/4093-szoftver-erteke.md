@@ -16,7 +16,7 @@ duration: 2 óra
 schools: műszaki
 audience: doktoranduszoknak, doktorjelölteknek és fiatal kutatóknak
 participants: min. 10 fő
-form: 
+form:
 semester: 2015-2016-2
 ---
 
@@ -27,3 +27,7 @@ A kurzus keretein belül ismertetjük, hogy mit jelent a szoftver két értéke 
 # Hatása
 
 A kurzus meghallgatásával a résztvevő egy általános képet kaphat arról, hogy mit is jelent a szoftverfejlesztés ha hosszú távra tervezünk és milyen nehézségekkel szembesülnek a szoftverfejlesztők, melyekre nem könnyű optimális választ adni.
+
+# Oktatási anyagok
+
+A kurzuson bemutatott diasor: [Modern szoftverfejlesztési elvek és módszerek](/assets/szoftverfejlesztesi-elvek-clean-code.pdf)

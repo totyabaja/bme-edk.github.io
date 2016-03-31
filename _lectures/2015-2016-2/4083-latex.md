@@ -33,7 +33,7 @@ A kurzus további célja, hogy a gyakori hibákra felhívja a figyelmet, így be
 
 A kurzus elvégzése által a résztvevők képessé válnak
 
-* az eredményeik profi megjelenítésére
+* az eredményeik profi megjelenítésére,
 * LaTeX nyelven készült sablonok használatára,
 * ábrák beszúrására és azok hivatkozására,
 * egyszerű képletek és táblázatok írására és hivatkozására,

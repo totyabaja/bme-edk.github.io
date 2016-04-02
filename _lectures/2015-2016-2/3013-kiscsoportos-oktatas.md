@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: 2016.4.4.
+date: 1970.1.1.
 starttime: "8:30"
 endtime: "13:00"
 location:
@@ -8,7 +8,7 @@ location:
   - 8. emelet 803.
 title: Kis létszámú diákcsoportok hatékony oktatása
 lecturers:
-  - name: Vidékiné dr. Reményi Judit 
+  - name: Vidékiné dr. Reményi Judit
     title: egyetemi docens
     institute: Műszaki Pedagógia Tanszék, BME Gazdaság- és Társadalomtudományi Kar
 phdla: 3013

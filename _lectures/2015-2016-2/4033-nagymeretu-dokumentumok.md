@@ -16,7 +16,7 @@ duration: 3–4 óra
 schools: összes,  kivéve a matematika, a gazdaság- és a társadalomtudományok területeit
 audience: doktoranduszoknak és doktorjelölteknek
 participants: max. 10 fő
-form: IqlblLbxWs
+form: 
 semester: 2015-2016-2
 ---
 

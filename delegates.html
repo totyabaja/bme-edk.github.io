@@ -7,13 +7,13 @@ weight: 20
 <div class="home">
 
   <h1 class="page-heading">{{ page.title }}</h1>
-  
+
   {% assign delegates = site.data.delegates.delegates %}
 
-  <table class="table-hover">
+  <table class="">
   {% for delegate in delegates %}
       <tr>
-        <td><img src="https://avatars0.githubusercontent.com/u/7793636?v=3&s=96" width="96" height="96" alt=""></td>
+        <td><img src="/img/{{ delegate.faculty_short }}_sz.jpg" width="96" height="96" alt=""></td>
         <td>
           <h3>{{ delegate.name }}</h3>
           <div>{{ delegate.title }}</div>

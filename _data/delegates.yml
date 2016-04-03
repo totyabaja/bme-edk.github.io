@@ -2,25 +2,33 @@ delegates:
   - name: Soltész Dániel
     title: elnök
     faculty: Természettudományi Kar
+    faculty_short: TTK
     email: solteszd@math.bme.hu
   - name: Bell Evelin
     faculty: Vegyészmérnöki és Biomérnöki Kar
+    faculty_short: VBK
     email: bell.evelin@mail.bme.hu
   - name: Czinder Balázs
     faculty: Építőmérnöki Kar
-    email: 
+    faculty_short: EMK
+    email: czinder.balazs@epito.bme.hu
   - name: Csordás Hédi Virág
     faculty: Gazdaság- és Társadalomtudományi Kar
+    faculty_short: GTK
     email: hedi.csordas@filozofia.bme.hu
   - name: Lendvai László
     faculty: Gépészmérnöki Kar
+    faculty_short: GPK
     email: lendvai@pt.bme.hu
   - name: Mátrai Tamás
     faculty: Közlekedésmérnöki és Járműmérnöki Kar
+    faculty_short: KSK
     email:
   - name: Szárnyas Gábor
-    faculty: Villamos Mérnöki és Informatikai Kar
+    faculty: Villamosmérnöki és Informatikai Kar
+    faculty_short: VIK
     email: szarnyas@mit.bme.hu
   - name: Tamási Alexandra
-    faculty: Építőmérnöki Kar
-    email:
+    faculty: Építészmérnöki Kar
+    faculty_short: EPK
+    email: 

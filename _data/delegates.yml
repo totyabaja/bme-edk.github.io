@@ -23,7 +23,7 @@ delegates:
   - name: Mátrai Tamás
     faculty: Közlekedésmérnöki és Járműmérnöki Kar
     faculty_short: KSK
-    email:
+    email: tamas.matrai@mail.bme.hu
   - name: Szárnyas Gábor
     faculty: Villamosmérnöki és Informatikai Kar
     faculty_short: VIK
@@ -31,4 +31,4 @@ delegates:
   - name: Tamási Alexandra
     faculty: Építészmérnöki Kar
     faculty_short: EPK
-    email: 
+    email:

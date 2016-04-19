@@ -20,7 +20,7 @@ additional_times:
   - date: 2016.04.20.
     starttime: "15:00"
     endtime: "17:00"
-form: 398vjnXWVn
+form: 
 semester: 2015-2016-2
 ---
 

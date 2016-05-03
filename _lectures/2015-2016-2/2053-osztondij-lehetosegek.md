@@ -16,7 +16,7 @@ duration: 2 óra
 schools: összes
 audience: doktoranduszoknak, doktorjelölteknek és fiatal kutatóknak
 participants: 20 fő
-form: eSpG2MhTcC
+form: 
 semester: 2015-2016-2
 ---
 

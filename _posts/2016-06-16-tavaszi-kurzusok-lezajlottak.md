@@ -16,10 +16,15 @@ Az Egyetemi Doktorandusz Képviselet (EDK), a doktoranduszok igényeit figyelemb
 Tájékozódásul megtekintheted a korábbi évek kurzusait a  **[kurzusok](/lectures.html)** oldalra kattintva.
 
 A kutatói készségfejlesztő kurzusok négy kategóriába sorolhatók:
+
 1.	A kutatómunka hatékonyságát támogató kurzusok,
+
 2.	Az egyéni szakmai karriert támogató kurzusok,
+
 3.	Az oktatói feladatok ellátását támogató kurzusok,
+
 4.	Az informatikai készségek magasabb szintre emelését támogató kurzusok.
+
 Nemrég elindult facebook oldalunk is, ott is elérhetőek lesznek naprakész információk a kurzussorozatról.
 
 Üdvözlettel:<br/>

@@ -8,7 +8,7 @@ title: A kutatói készségfejlesztő kurzussorozat 2016. szeptemberében is ind
 
 Kedves Doktorandusz és Fiatal Kutató!
 
-A BME doktori képzésében résztvevő PhD/DLA hallgatók és a BME-n doktori fokozatszerzés előtt álló fiatal kutatók (doktorjelöltek) számára a BME munkatársai és külsős szakemberek az akadémiai ismereteket kiegészítő kutatói készségfejlesztő kurzusokat tartanak. Jelenleg három sikeres félév zajlott le. 
+A BME doktori képzésében résztvevő PhD/DLA hallgatók és a BME-n doktori fokozatszerzés előtt álló fiatal kutatók (doktorjelöltek) számára a BME kiváló oktatói, szakértő munkatársai és tekintélyes külsős szakemberek az akadémiai ismereteket kiegészítő kutatói készségfejlesztő kurzusokat tartanak. Jelenleg három sikeres félév zajlott le. 
 A 2016/2017. tanév őszi kurzusait 2016. szeptemberében hirdetjük meg.
 A kurzusok (előadások) célja, hogy azonnal alkalmazható tudást közvetítsenek a résztvevőknek. Egy-egy kurzus teljes óraszáma 2 óra és 5 óra között van, és egymástól függetlenül hallgathatók meg (v. vehetők fel).
 Az Egyetemi Doktorandusz Képviselet (EDK), a doktoranduszok igényeit figyelembe véve, közreműködik abban, hogy mely témában induljanak kurzusok, továbbá szervezi a tájékoztatást, a jelentkeztetést és a kurzusok lebonyolítását. 

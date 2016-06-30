@@ -17,7 +17,7 @@ location:
 - 2. emelet IB210
 starttime: "10:15"
 endtime: "12:00"
-form:
+form: 
 semester: 2015-2016-2
 ---
 

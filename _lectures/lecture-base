@@ -1,6 +1,9 @@
 ---
 layout: lecture
 date: 2016.xx.yy.
+starttime: ""
+endtime: ""
+location:
 title:
 lecturers:
   - name:
@@ -11,9 +14,6 @@ duration:
 schools:
 audience:
 participants:
-location:
-starttime: ""
-endtime: ""
 form:
 semester: 2015-2016-z
 ---

@@ -24,9 +24,9 @@ layout: default
     </ul>
 
     <h1>Adatok</h1>
-  
+
     <div><strong>Kurzuskód:</strong> PHDLA{{ page.phdla }}</div>
-    <div><strong>Időpont:</strong> 
+    <div><strong>Időpont:</strong>
         {% assign m = page.date | date: "%-m" %}
         {% if page.date != "TBA" %}
         {{ page.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ page.date | date: "%-d." }}
@@ -35,7 +35,7 @@ layout: default
         {% if additional_time.starttime and additional_time.starttime != "" %}{{ additional_time.starttime }}–{{ additional_time.endtime }}{% endif %}
         {% endfor %}</div>
     <div><strong>Időtartam:</strong> {{ page.duration }}</div>
-    <div><strong>Helyszín:</strong> {{ page | map: 'location' | join: ', ' }}</div>
+    <div><strong>Helyszín:</strong> {{ page.location | join: ', ' }}</div>
     <div><strong>Mely doktori iskola részére:</strong> {{ page.schools }}</div>
     <div><strong>Résztvevők ajánlott száma:</strong> {{ page.participants }}</div>
     <div><strong>Kiknek ajánljuk:</strong> {{ page.audience }}</div>

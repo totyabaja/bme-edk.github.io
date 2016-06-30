@@ -6,7 +6,7 @@ lecturers:
   - name: Szmolyán Mária
     title: szaktájékoztató
     institute: Matematika- és Számítástudományok, Informatikai Tudományok és Villamosmérnöki Tudományok
-    phdla: 1043
+phdla: 1043
 duration: 2 óra
 schools: összes
 audience: doktoranduszoknak, doktorjelölteknek és fiatal kutatóknak

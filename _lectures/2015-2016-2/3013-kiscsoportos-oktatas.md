@@ -16,7 +16,7 @@ duration: 4,5 óra
 schools: összes
 audience: doktoranduszoknak, doktorjelölteknek és fiatal kutatóknak
 participants: 20 fő
-form: 
+form:
 semester: 2015-2016-2
 ---
 

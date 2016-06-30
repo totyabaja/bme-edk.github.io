@@ -1,6 +1,12 @@
 ---
 layout: lecture
 date: 2016.03.18.
+starttime: "10:15"
+endtime: "12:00"
+location:
+  - Informatika épület
+  - B szárny
+  - 2. emelet IB210
 title: Tanácsok a sikeres publikáláshoz
 lecturers:
   - name: Dr. Recski András
@@ -11,13 +17,7 @@ duration: 2 óra
 schools: Matematika- és Számítástudományok, Informatikai Tudományok és Villamosmérnöki Tudományok
 audience: doktoranduszoknak
 participants: 5-30 fő
-location:
-- Informatika épület
-- B szárny
-- 2. emelet IB210
-starttime: "10:15"
-endtime: "12:00"
-form: 
+form:
 semester: 2015-2016-2
 ---
 

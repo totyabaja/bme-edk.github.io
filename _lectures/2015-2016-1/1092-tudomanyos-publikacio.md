@@ -4,8 +4,8 @@ date: 2015.11.25.
 starttime: "10:00"
 endtime: "12:00"
 location:
-- K épület
-- 1. emelet 72.
+  - K épület
+  - 1. emelet 72.
 title: Hogyan készítsünk tudományos publikációt?
 lecturers:
   - name: Kmety Andrea
@@ -16,7 +16,7 @@ duration: 2 óra
 schools: összes
 audience: doktoranduszoknak
 participants: 10–40 fő
-form: 
+form:
 semester: 2015-2016-1
 ---
 

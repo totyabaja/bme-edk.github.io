@@ -1,21 +1,21 @@
 ---
 layout: lecture
 date: 2016.04.06.
-title: Tanácsok a sikeres publikáláshoz
+starttime: "10:15"
+endtime: "12:00"
+location:
+  - Könyvtár épület
+  - Földszint 2.
 lecturers:
   - name: Szmolyán Mária
     title: szaktájékoztató
     institute: Matematika- és Számítástudományok, Informatikai Tudományok és Villamosmérnöki Tudományok
+title: Tanácsok a sikeres publikáláshoz
 phdla: 1043
 duration: 2 óra
 schools: összes
 audience: doktoranduszoknak, doktorjelölteknek és fiatal kutatóknak
 participants: 10-25 fő
-location:
-- Könyvtár épület
-- Földszint 2.
-starttime: "10:15"
-endtime: "12:00"
 form:
 semester: 2015-2016-2
 ---

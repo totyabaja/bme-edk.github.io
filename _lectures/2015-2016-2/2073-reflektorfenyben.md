@@ -3,9 +3,9 @@ layout: lecture
 date: 2016.4.11.
 starttime: "14:00"
 endtime: "19:00"
-location: 
-- K épület 
-- 1. emelet 72.
+location:
+  - K épület
+  - 1. emelet 72.
 title: "Reflektorfényben: előadói készségfejlesztés és hatékony prezentáció-készítés"
 lecturers:
   - name: Szabó Krisztina
@@ -19,7 +19,7 @@ duration: 5 óra
 schools: összes
 audience: végzős doktoranduszoknak és doktorjelölteknek
 participants: max. 20 fő
-form: 
+form:
 semester: 2015-2016-2
 ---
 

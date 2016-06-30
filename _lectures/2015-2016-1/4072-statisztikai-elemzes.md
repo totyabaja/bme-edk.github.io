@@ -3,9 +3,9 @@ layout: lecture
 date: 2015.10.29.
 starttime: "9:00"
 endtime: "14:00"
-location: 
-- E épület
-- 11. emelet 4.
+location:
+  - E épület
+  - 11. emelet 4.
 title: Statisztikai elemzés az ingyenes R szoftverben
 lecturers:
   - name: Mády Katalin
@@ -16,7 +16,7 @@ duration: 5 óra
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 5-20 fő
-form: 
+form:
 semester: 2015-2016-1
 ---
 

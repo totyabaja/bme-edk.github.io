@@ -4,8 +4,8 @@ date: 2015.11.11.
 starttime: "14:00"
 endtime: "16:00"
 location:
-- K épület
-- 1. emelet 72.
+  - K épület
+  - 1. emelet 72.
 title: Praktikus tippek prezentáció készítéséhez (PowerPoint, Prezi)
 lecturers:
   - name: Gujzer Zsuzsanna
@@ -18,8 +18,8 @@ phdla: 1102
 duration: 2 óra (90 perc)
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
-participants: 5–25 fő 
-form: 
+participants: 5–25 fő
+form:
 semester: 2015-2016-1
 ---
 

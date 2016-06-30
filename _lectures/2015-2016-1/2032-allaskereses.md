@@ -4,8 +4,8 @@ date: 2015.11.30.
 starttime: "14:00"
 endtime: "19:00"
 location:
-- K épület
-- 1. emelet 72.
+  - K épület
+  - 1. emelet 72.
 title: Álláskeresés az egyetemen kívül. A karrierépítés első lépései
 lecturers:
   - name: Illés Zsófia
@@ -22,7 +22,7 @@ duration: 5 óra
 schools: összes
 audience: végzős doktoranduszoknak és doktorjelölteknek
 participants: max. 20 fő
-form: 
+form:
 semester: 2015-2016-1
 ---
 
@@ -32,4 +32,4 @@ A kurzus során a végzős doktoranduszok és doktorjelöltek gyakorlati segíts
 
 # Hatása
 
-Hatékony álláskeresés, színvonalas önéletrajz és motivációs levélírás, és állásinterjún való szereplés sikeres támogatása. 
+Hatékony álláskeresés, színvonalas önéletrajz és motivációs levélírás, és állásinterjún való szereplés sikeres támogatása.

@@ -4,8 +4,8 @@ date: 2015.11.03.
 starttime: "14:00"
 endtime: "17:00"
 location:
-- K épület
-- 1. emelet 72.
+  - K épület
+  - 1. emelet 72.
 title: Kommunikációfejlesztés
 lecturers:
   - name: Halász Ágnes
@@ -16,7 +16,7 @@ duration: 3 óra
 schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: max. 12 fő
-form: 
+form:
 semester: 2015-2016-1
 ---
 

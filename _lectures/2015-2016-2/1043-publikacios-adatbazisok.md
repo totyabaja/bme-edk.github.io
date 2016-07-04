@@ -10,7 +10,7 @@ lecturers:
   - name: Szmolyán Mária
     title: szaktájékoztató
     institute: Matematika- és Számítástudományok, Informatikai Tudományok és Villamosmérnöki Tudományok
-title: Tanácsok a sikeres publikáláshoz
+title: Miben segítenek a publikációs adatbázisok?
 phdla: 1043
 duration: 2 óra
 schools: összes

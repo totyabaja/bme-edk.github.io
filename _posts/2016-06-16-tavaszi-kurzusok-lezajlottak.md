@@ -30,4 +30,4 @@ Nemrég elindult facebook oldalunk is, ott is elérhetőek lesznek naprakész in
 
 Üdvözlettel:<br/>
 az Egyetemi Doktorandusz Képviselet vezetősége<br/>
-dok.kurzussorozat@gmail.com (ide irj, ha kérdésed van)
+dok.kurzussorozat@gmail.com (ide írj, ha kérdésed van)

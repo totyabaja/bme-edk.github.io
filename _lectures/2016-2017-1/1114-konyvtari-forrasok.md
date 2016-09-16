@@ -23,6 +23,7 @@ semester: 2016-2017-1
 # A kurzus ismertetése
 
 A publikálás, az irodalomkeresés a kutatómunka szerves része. A BME Könyvtára, az OMIKK szerteágazóan segíti ebben a munkában a kutatókat. A kurzus az OMIKK szolgáltatásait ismerteti.
+
 * könyvtári online és offline források használata a kutatómunka során
 * adatbázisok bemutatása
 * szabadon hozzáférhető források

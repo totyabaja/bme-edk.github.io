@@ -6,7 +6,7 @@ endtime: "16:00"
 location:
   - K épület
   - 1. emelet 72.
-title: Kommunikációfejlesztés
+title: Érzelmi intelligencia a kommunikáció tükrében
 lecturers:
   - name: Halász Ágnes
     title: mediátor
@@ -22,7 +22,12 @@ semester: 2016-2017-1
 
 # A kurzus ismertetése
 
-A kurzus során a hiteles, önazonos kommunikációt gyakoroljuk. Hogyan tudjuk kifejezni magunkat stressz- vagy konfliktushelyzetben úgy, hogy az minden érintett hasznára váljon. Hogyan erősíthetjük az együttműködést megfelelő párbeszéd kialakításával. Miként kommunikáljunk munkahelyi környezetben.
+A gyakorlati óra alkalmával megkeressük a Hangodat! A hiteles önkifejezés ugyanis a siker egyik kulcsa! Életünk minden területén, az üzleti világban/szakmai környezetben is komoly lépéselőnyt jelent az önazonosság, az önreflexió képessége és az érzelmek tudatosítása, mely alapja az egyértelmű, tiszta és felemelő kommunikációnak.
+
+A foglalkozáson gyakorlati példák során az alábbi témákat érintjük:
+* Az érzelmi intelligencia fogalma,
+* Az érzelemtudatosítás módszere,
+* A kommunikációs stratégiák rendszere.
 
 # Hatása
 

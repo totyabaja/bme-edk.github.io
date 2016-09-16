@@ -5,8 +5,6 @@ starttime: "9:15"
 endtime: "12:00"
 title: Prezentációs alapelvek és gyakorlati technikák
 location:
-  - E épület
-  - 11. emelet 2.
 lecturers:
   - name: Elek Nikolett
     title: PhD-hallgató

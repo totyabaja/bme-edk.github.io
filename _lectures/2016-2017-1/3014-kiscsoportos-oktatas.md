@@ -5,8 +5,8 @@ starttime: "13:00"
 endtime: "17:30"
 location:
   - E épület
-  - 8. emelet 803.
-title: Kis létszámú diákcsoportok hatékony oktatása
+  - 11. emelet 1. terem
+title: Kis létszámú egyetemi csoportok hatékony oktatása
 lecturers:
   - name: Vidékiné dr. Reményi Judit
     title: egyetemi docens

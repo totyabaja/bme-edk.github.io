@@ -4,9 +4,9 @@ date: 2016.10.27.
 starttime: "10:15"
 endtime: "12:00"
 location:
-  - K épület
-  - 1. emelet 72.
-title: Praktikus tippek prezentáció készítéséhez (PowerPoint, Prezi)
+  - Könyvtár
+  - Földszint 2.
+title: Könyvtári források hatékony használata – Könyvtár és a kutatás kapcsolata
 lecturers:
   - name: Gujzer Zsuzsanna
     title: tájékoztató könyvtáros
@@ -14,18 +14,20 @@ lecturers:
 phdla: 1114
 duration: 2 óra (90 perc)
 schools: összes
-audience: doktoranduszoknak és doktorjelölteknek
+audience: doktoranduszoknak, doktorjelölteknek és fiatal kutatóknak
 participants: 5–25 fő
 form:
-semester: 2015-2016-1
+semester: 2016-2017-1
 ---
 
 # A kurzus ismertetése
 
-* Mire érdemes figyelni prezentáció készítés során
-* Hasznos tippek, trükkök informatív és érdekes prezentációkhoz
-* Gyakorlati példák
+A publikálás, az irodalomkeresés a kutatómunka szerves része. A BME Könyvtára, az OMIKK szerteágazóan segíti ebben a munkában a kutatókat. A kurzus az OMIKK szolgáltatásait ismerteti.
+* könyvtári online és offline források használata a kutatómunka során
+* adatbázisok bemutatása
+* szabadon hozzáférhető források
+* gyakorlati példák
 
 # Hatása
 
-A doktorandusz hallgató tudatosabban készítheti el a prezentációit, elkerülheti a gyakori hibákat, a későbbiekben ezzel a tudással az előadásait vizuálisan, lényegre törőbben tudja elkészíteni.
+A doktorandusz hallgató tudatosabban tudja elkészíteni a publikációit, magabiztosan eligazodik a különböző adatbázisok között, megismeri az egyetemi könyvtár adta lehetőségeket.

@@ -4,9 +4,7 @@ date: 2016.11.08.
 starttime: "10:15"
 endtime: "13:00"
 location:
-  - E épület
-  - 11. emelet 4.
-title: Európai uniós mobilitási programok doktorandusz hallgatók részére
+title: Európai uniós pályázatok doktorandusz hallgatók részére
 lecturers:
   - name: Bíró Gábor István
     title: PhD hallgató

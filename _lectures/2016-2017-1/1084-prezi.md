@@ -5,7 +5,7 @@ starttime: "9:15"
 endtime: "13:00"
 location:
   - E épület
-  - 8. emelet 804.
+  - 
 title: Prezi.com
 lecturers:
   - name: Szalóki Tiborné

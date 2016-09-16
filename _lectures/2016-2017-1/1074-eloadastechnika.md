@@ -5,7 +5,7 @@ starttime: "9:15"
 endtime: "13:00"
 location:
   - E épület
-  - 8. emelet 804.
+  - 
 title: Előadástechnika. Prezentáció nagy létszámú hallgatóságnak
 lecturers:
   - name: Szalóki Tiborné

@@ -25,6 +25,7 @@ semester: 2016-2017-1
 A gyakorlati óra alkalmával megkeressük a Hangodat! A hiteles önkifejezés ugyanis a siker egyik kulcsa! Életünk minden területén, az üzleti világban/szakmai környezetben is komoly lépéselőnyt jelent az önazonosság, az önreflexió képessége és az érzelmek tudatosítása, mely alapja az egyértelmű, tiszta és felemelő kommunikációnak.
 
 A foglalkozáson gyakorlati példák során az alábbi témákat érintjük:
+
 * Az érzelmi intelligencia fogalma,
 * Az érzelemtudatosítás módszere,
 * A kommunikációs stratégiák rendszere.

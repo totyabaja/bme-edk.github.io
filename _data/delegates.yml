@@ -1,10 +1,6 @@
 delegates:
-  - name: Soltész Dániel
-    title: elnök
-    faculty: Természettudományi Kar
-    faculty_short: TTK
-    email: solteszd@math.bme.hu
   - name: Bell Evelin
+    title: elnök
     faculty: Vegyészmérnöki és Biomérnöki Kar
     faculty_short: VBK
     email: bell.evelin@mail.bme.hu
@@ -33,3 +29,8 @@ delegates:
     faculty: Építészmérnöki Kar
     faculty_short: EPK
     email: atamasi@epsz.bme.hu
+  - name: Soltész Dániel
+    title: állandó meghívott
+    faculty: Természettudományi Kar
+    faculty_short: TTK
+    email: solteszd@math.bme.hu

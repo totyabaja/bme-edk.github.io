@@ -36,7 +36,7 @@ weight: 50
     </tr>
 
     {% for lecture in lectures %}
-      {% if lecture.semester == current_semester and lecture.form == nil %}
+      {% if lecture.semester == current_semester %}
         <tr>
           <td>
             {% assign m = lecture.date | date: "%-m" %}

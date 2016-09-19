@@ -16,10 +16,6 @@ duration: 2×2 óra
 schools: összes
 audience: doktoranduszoknak, doktorjelölteknek és fiatal kutatóknak
 participants: 10-40 fő
-additional_times:
-  - date: 2016.11.09.
-    starttime: "15:00"
-    endtime: "17:00"
 form: iG8V8JcQloeNCWYK2
 semester: 2016-2017-1
 ---

@@ -12,7 +12,7 @@ lecturers:
     title: mediátor
     institute: Párbeszéd Műhely
 phdla: 2064
-duration: 3 óra
+duration: 2 óra
 schools: összes
 audience: doktoranduszoknak, doktorjelölteknek és fiatal kutatóknak
 participants: max. 12 fő

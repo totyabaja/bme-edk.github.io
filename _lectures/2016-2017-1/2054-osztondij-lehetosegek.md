@@ -2,7 +2,7 @@
 layout: lecture
 date: 2016.10.11.
 starttime: "14:00"
-endtime: "17:00"
+endtime: "16:00"
 location:
   - K épület
   - 1. emelet 72.

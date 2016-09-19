@@ -66,3 +66,11 @@ tbody tr:nth-child(odd) {
 .no-forms tbody tr {
   opacity: 0.5;
 }
+
+#autumn2015, #spring2016 {
+    display: none;
+
+    &:target {
+        display: block;
+    }
+}

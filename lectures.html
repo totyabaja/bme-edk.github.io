@@ -22,8 +22,9 @@ weight: 50
 
   A kurzuskód első számjegye mutatja, hogy az adott a kurzus a fenti kategóriák melyikébe tartozik.
 
-  <h2>Aktuális kurzusok (2016. ősz)</h2>
+  <h2 id="autumn2016h">Aktuális kurzusok (2016. ősz)</h2>
 
+  <div id="autumn2016">
   <table class="table-hover">
     <tr>
       <th>Időpont</th>
@@ -42,7 +43,7 @@ weight: 50
             {% assign year = lecture.date | date: "%Y" %}
             {{ year }}.&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ lecture.date | date: "%-d." }}<br />
             {% if lecture.starttime and lecture.starttime != "" %}{{ lecture.starttime }}–{{ lecture.endtime }}{% endif %}{% for additional_time in lecture.additional_times %}{% assign m2 = additional_time.date | date: "%-m" %}{% if additional_time.date %}, <br />
-            {{ additional_time.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ additional_time.date | date: "%-d." }}<br />
+            {{ additional_time.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m2] }}&nbsp;{{ additional_time.date | date: "%-d." }}<br />
             {% if additional_time.starttime and additional_time.starttime != "" %}{{ additional_time.starttime }}–{{ additional_time.endtime }}{% endif %}{% endif %}
             {% endfor %}
           </td>
@@ -56,10 +57,15 @@ weight: 50
       {% endif %}
     {% endfor %}
   </table>
+  </div>
 
-  <h2>Korábbi kurzusok (2016. tavasz)</h2>
+  <h2 id="spring2016h">Korábbi kurzusok (2016. tavasz)</h2>
 
-  <table class="table-hover no-forms">
+  <a href="#spring2016">Megjelenítés</a>
+
+  <div id="spring2016">
+  <a href="#spring2016h">Elrejtés</a>
+  <table class="table-hover">
   <tr>
     <th>Időpont</th>
     <th width="150">Helyszín</th>
@@ -93,10 +99,15 @@ weight: 50
     {% endif %}
   {% endfor %}
   </table>
+  </div>
 
-  <h2>Korábbi kurzusok (2015. ősz)</h2>
+  <h2 id="autumn2015h">Korábbi kurzusok (2015. ősz)</h2>
 
-  <table class="table-hover no-forms">
+  <a href="#autumn2015">Megjelenítés</a>
+
+  <div id="autumn2015">
+  <a href="#autumn2015h">Elrejtés</a>
+  <table class="table-hover">
     <tr>
       <th>Időpont</th>
       <th width="150">Helyszín</th>
@@ -128,5 +139,7 @@ weight: 50
       {% endif %}
     {% endfor %}
   </table>
+  </div>
+  </div>
 
 </div>

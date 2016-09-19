@@ -1,6 +1,6 @@
 ---
 layout: lecture
-date: 2016.11.02.
+date: 2016.11.09.
 starttime: "15:00"
 endtime: "17:00"
 location:
@@ -10,16 +10,12 @@ lecturers:
   - name: Dr. Szántay Csaba
     title: egyetemi magántanár
     institute: Richter Gedeon Vegyészeti Gyár Nyrt.
-title: "Az emberi tényező szerepe a tudományos gondolkodásban, avagy: milyen a jó kutató az akadémiai szférában és az iparban? (1. és 2. rész)"
+title: "Az emberi tényező szerepe a tudományos gondolkodásban, avagy: milyen a jó kutató az akadémiai szférában és az iparban? (2. rész)"
 phdla: 2014
 duration: 2×2 óra
 schools: összes
 audience: doktoranduszoknak, doktorjelölteknek és fiatal kutatóknak
 participants: 10-40 fő
-additional_times:
-  - date: 2016.11.09.
-    starttime: "15:00"
-    endtime: "17:00"
 form:
 semester: 2016-2017-1
 ---

@@ -31,7 +31,7 @@ layout: default
         {% if page.date != "TBA" %}
         {{ page.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ page.date | date: "%-d." }}
         {% if page.starttime and page.starttime != "" %}{{ page.starttime }}–{{ page.endtime }}{% endif %}{% endif %}{% for additional_time in page.additional_times %}{% assign m2 = additional_time.date | date: "%-m" %}{% if additional_time.date %},
-        {{ additional_time.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m] }}&nbsp;{{ additional_time.date | date: "%-d." }}{% endif %}
+        {{ additional_time.date | date: "%Y." }}&nbsp;{{ site.data.months.months[m2] }}&nbsp;{{ additional_time.date | date: "%-d." }}{% endif %}
         {% if additional_time.starttime and additional_time.starttime != "" %}{{ additional_time.starttime }}–{{ additional_time.endtime }}{% endif %}
         {% endfor %}</div>
     <div><strong>Időtartam:</strong> {{ page.duration }}</div>

@@ -4,6 +4,8 @@ date: 2016.10.04.
 starttime: "14:00"
 endtime: "17:00"
 location:
+- E épület
+- 11. emelet 4. terem
 title: Szoftverfejlesztés a vevői megrendeléstől a szállításig a Kutatás & Fejlesztés részlegen
 lecturers:
   - name: Dr. Bátorfi Richárd

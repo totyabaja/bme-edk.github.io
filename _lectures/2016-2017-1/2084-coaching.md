@@ -4,8 +4,8 @@ date: 2016.11.21.
 starttime: "10:15"
 endtime: "12:00"
 location:
-- K épület
-- 1. emelet 72.
+  - K épület
+  - 1. emelet 72.
 title: Coaching a személyes és szervezeti fejlesztés szolgálatában
 lecturers:
   - name: Polesinszky Gergely

@@ -16,7 +16,7 @@ duration: 2 óra
 schools: összes
 audience: doktoranduszoknak, doktorjelölteknek és fiatal kutatóknak
 participants: 10-25 fő
-form:
+form: nz4BwpOHx6JMITPS2
 semester: 2016-2017-1
 ---
 

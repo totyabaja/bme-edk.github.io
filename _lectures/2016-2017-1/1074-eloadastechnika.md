@@ -1,11 +1,11 @@
 ---
 layout: lecture
-date: 2016.10.13
+date: 2016.10.13.
 starttime: "9:15"
 endtime: "13:00"
 location:
   - E épület
-  - 
+  -
 title: Előadástechnika. Prezentáció nagy létszámú hallgatóságnak
 lecturers:
   - name: Szalóki Tiborné

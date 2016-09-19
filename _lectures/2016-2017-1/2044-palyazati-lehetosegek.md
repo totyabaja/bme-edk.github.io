@@ -17,7 +17,7 @@ schools: összes
 audience: doktoranduszoknak és doktorjelölteknek
 participants: 20 fő
 form:
-semester: 2015-2016-1
+semester: 2016-2017-1
 ---
 
 # A kurzus ismertetése

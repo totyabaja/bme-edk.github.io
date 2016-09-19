@@ -4,6 +4,8 @@ date: 2016.11.08.
 starttime: "10:15"
 endtime: "13:00"
 location:
+- E épület
+- 11. emelet 4. terem
 title: Európai uniós pályázatok doktorandusz hallgatók részére
 lecturers:
   - name: Bíró Gábor István

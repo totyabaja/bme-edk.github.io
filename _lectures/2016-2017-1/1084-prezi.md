@@ -5,7 +5,7 @@ starttime: "9:15"
 endtime: "13:00"
 location:
   - E épület
-  - 
+  - 11. emelet 4. terem
 title: Prezi.com
 lecturers:
   - name: Szalóki Tiborné

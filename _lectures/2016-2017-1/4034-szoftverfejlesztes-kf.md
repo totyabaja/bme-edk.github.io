@@ -14,7 +14,7 @@ duration: 3 óra
 schools: műszaki
 audience: doktoranduszoknak, doktorjelölteknek és fiatal kutatóknak
 participants: max. 10 fő
-form:
+form: egDGpIOg0AY3HXQI3
 semester: 2016-2017-1
 ---
 

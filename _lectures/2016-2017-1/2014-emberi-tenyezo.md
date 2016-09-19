@@ -10,7 +10,7 @@ lecturers:
   - name: Dr. Szántay Csaba
     title: egyetemi magántanár
     institute: Richter Gedeon Vegyészeti Gyár Nyrt.
-title: "Az emberi tényező szerepe a tudományos gondolkodásban, avagy: milyen a jó kutató az akadémiai szférában és az iparban? (1. és 2. rész)"
+title: "Az emberi tényező szerepe a tudományos gondolkodásban, avagy: milyen a jó kutató az akadémiai szférában és az iparban? (1. rész)"
 phdla: 2014
 duration: 2×2 óra
 schools: összes

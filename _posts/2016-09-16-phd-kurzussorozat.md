@@ -13,8 +13,6 @@ A kurzusok (más néven: előadások/szemináriumok) nem tantárgyak. Céljuk, h
 A kurzusokon a részvétel ingyenes, de a korlátozott létszám miatt előzetes jelentkezéshez kötött. A szabad helyekre várjuk a leendő doktoranduszokat, a BME munkatársait is.
 A kurzusok leírása és időpontja, valamint a jelentkezés a **[kurzusok](/lectures.html)** oldalon található.
 
-A honlap rendszeresen frissül, látogassad meg újra és újra.
-
 Minden doktorandusz hallgatót és fiatal kutatót szeretettel várunk!
 
 Üdvözlettel:<br/>

@@ -4,7 +4,7 @@ date: 2016.10.27.
 starttime: "10:15"
 endtime: "12:00"
 location:
-  - Könyvtár
+  - Könyvtár épület
   - Földszint 2.
 title: Könyvtári források hatékony használata – Könyvtár és a kutatás kapcsolata
 lecturers:

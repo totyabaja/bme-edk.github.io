@@ -4,8 +4,8 @@ date: 2016.10.20.
 starttime: "14:00"
 endtime: "16:00"
 location:
-  - K épület
-  - 1. emelet 72.
+  - Könyvtár épület
+  - Földszint 2.
 title: Érzelmi intelligencia a kommunikáció tükrében
 lecturers:
   - name: Halász Ágnes

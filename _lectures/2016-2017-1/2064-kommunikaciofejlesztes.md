@@ -16,7 +16,7 @@ duration: 2 óra
 schools: összes
 audience: doktoranduszoknak, doktorjelölteknek és fiatal kutatóknak
 participants: max. 12 fő
-form: XlcdOreyJFVq7NAc2
+form:
 semester: 2016-2017-1
 ---
 

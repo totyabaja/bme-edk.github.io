@@ -20,18 +20,18 @@ delegates:
     faculty: Közlekedésmérnöki és Járműmérnöki Kar
     faculty_short: KSK
     email: tamas.matrai@mail.bme.hu
-  - name: Szárnyas Gábor
-    title: kurzussorozat szervező
+  - name: Tóth Zoltán
+    title: 
     faculty: Villamosmérnöki és Informatikai Kar
     faculty_short: VIK
-    email: szarnyas@mit.bme.hu
-  - name: Tamási Alexandra
-    title: állandó meghívott
+    email: toth.zoltan@vet.bme.hu
+  - name: 
+    title: 
     faculty: Építészmérnöki Kar
     faculty_short: EPK
-    email: atamasi@epsz.bme.hu
-  - name: Soltész Dániel
+    email: 
+  - name: Vécsi István Áron
     title: állandó meghívott
     faculty: Természettudományi Kar
     faculty_short: TTK
-    email: solteszd@math.bme.hu
+    email: 

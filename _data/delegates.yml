@@ -8,6 +8,10 @@ delegates:
     faculty: Építőmérnöki Kar
     faculty_short: EMK
     email: czinder.balazs@epito.bme.hu
+  - name: Lassú Péter
+    faculty: Építészmérnöki Kar
+    faculty_short: EPK
+    email: peter.lassu@rajzi.bme.hu
   - name: Csordás Hédi Virág
     faculty: Gazdaság- és Társadalomtudományi Kar
     faculty_short: GTK
